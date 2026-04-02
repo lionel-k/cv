@@ -1,0 +1,52 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV — database expert / PostgreSQL-focused variant (see template/upstream-examples for full upstream samples)
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{../../awesome-cv}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+\colorlet{awesome}{awesome-red}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+%-------------------------------------------------------------------------------
+% PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{Lionel}{Kubwimana}
+\position{PostgreSQL Specialist{\enskip\cdotp\enskip}Performance \& Data Integrity{\enskip\cdotp\enskip}Ruby on Rails}
+\address{1 Rue de l'Église, 91430 Igny, France}
+
+\mobile{(+33) 6 15 44 29 22}
+\email{lionel.kubwimana@gmail.com}
+\github{lionel-k}
+\linkedin{l-kubwimana}
+\twitter{lionelkubwimana}
+
+\quote{``The Best Way to Predict the Future is to Create it.''}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader[C]
+
+\makecvfooter
+  {\today}
+  {Lionel Kubwimana~~~·~~~Résumé}
+  {\thepage}
+
+%-------------------------------------------------------------------------------
+% CV CONTENT
+%-------------------------------------------------------------------------------
+\input{sections/highlights.tex}
+\input{sections/summary.tex}
+\input{sections/database-expertise.tex}
+\input{sections/experience.tex}
+\input{sections/skills.tex}
+\input{sections/education.tex}
+
+\end{document}

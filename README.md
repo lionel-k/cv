@@ -16,18 +16,25 @@ This compiles the **Senior Software Engineer** CV to:
 
 `variants/senior-software-engineer/senior-software-engineer.pdf`
 
+**Database expert** (PostgreSQL-focused) variant:
+
 ```bash
-make clean   # remove PDF and aux files in that variant folder
+make dba
+```
+
+Output: `variants/database-expert/database-expert.pdf`
+
+```bash
+make clean   # remove PDF and aux files for both variants
 ```
 
 ## Layout
 
 | Path | Purpose |
 |------|---------|
-| [variants/senior-software-engineer/](variants/senior-software-engineer/) | Active CV: edit `cv.tex` (header, contact) and `sections/*.tex` (content). |
+| [variants/senior-software-engineer/](variants/senior-software-engineer/) | Default CV: edit `cv.tex` (header, contact) and `sections/*.tex` (content). |
+| [variants/database-expert/](variants/database-expert/) | PostgreSQL / data-layer emphasis: same structure, different sections and headline. |
 | [template/upstream-examples/](template/upstream-examples/) | Archived Awesome-CV **résumé**, **CV**, and **cover letter** examples for reference. |
-
-To add another role later, copy `variants/senior-software-engineer/` to a new folder, adjust `\position` and sections, and add a Makefile target (same pattern as the current variant).
 
 ## Git remote
 
