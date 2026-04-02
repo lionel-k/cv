@@ -7,10 +7,16 @@
 *.fls
 *.out
 *.toc
+*.fdb_latexmk
+*.synctex.gz
 
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
+
+## Built PDFs (generate with `make`)
+variants/**/*.pdf
+template/upstream-examples/*.pdf
 
 ### Editor ###
 ## Vim & Emacs temp files:
@@ -20,4 +26,3 @@
 ### Mac OS X ###
 ## Mac OS X metadata files:
 *.DS_Store
-
