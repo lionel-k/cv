@@ -25,14 +25,15 @@ make clean   # remove PDF and aux files in that variant folder
 | Path | Purpose |
 |------|---------|
 | [variants/senior-software-engineer/](variants/senior-software-engineer/) | Active CV: edit `cv.tex` (header, contact) and `sections/*.tex` (content). |
-| [template/upstream-examples/](template/upstream-examples/) | Archived upstream **résumé**, **CV**, and **cover letter** examples for reference. |
-| `upstream` git remote | Points at `posquit0/Awesome-CV` for pulling template updates. |
+| [template/upstream-examples/](template/upstream-examples/) | Archived Awesome-CV **résumé**, **CV**, and **cover letter** examples for reference. |
 
 To add another role later, copy `variants/senior-software-engineer/` to a new folder, adjust `\position` and sections, and add a Makefile target (same pattern as the current variant).
 
-## Git remotes
+## Git remote
 
 - **origin** — `git@github.com:lionel-k/cv.git`
-- **upstream** — Awesome-CV template (optional)
 
 Default branch: **main**.
+
+To pull template updates from the original project, add a remote when needed:  
+`git remote add awesome-cv git@github.com:posquit0/Awesome-CV.git`
