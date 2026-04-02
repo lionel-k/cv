@@ -1,0 +1,55 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV — senior software engineer variant (see template/upstream-examples for full upstream samples)
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{../../awesome-cv}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+\colorlet{awesome}{awesome-red}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+%-------------------------------------------------------------------------------
+% PERSONAL INFORMATION — replace with your details
+%-------------------------------------------------------------------------------
+% \photo{./profile.png}
+\name{Your}{Name}
+\position{Senior Software Engineer}
+\address{City, Country}
+
+\mobile{(+00) 0000-0000}
+\email{you@example.com}
+\homepage{www.example.com}
+\github{your-github}
+\linkedin{your-linkedin}
+
+\quote{``One line about how you work or what you care about professionally.''}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader
+
+\makecvfooter
+  {\today}
+  {Your Name~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+%-------------------------------------------------------------------------------
+% CV CONTENT — reorder or omit \input lines per role
+%-------------------------------------------------------------------------------
+\input{sections/education.tex}
+\input{sections/skills.tex}
+\input{sections/experience.tex}
+\input{sections/extracurricular.tex}
+\input{sections/honors.tex}
+\input{sections/certificates.tex}
+\input{sections/presentation.tex}
+\input{sections/writing.tex}
+\input{sections/committees.tex}
+
+\end{document}
