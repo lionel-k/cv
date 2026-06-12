@@ -16,6 +16,8 @@
 
 ## Built PDFs (generate with `make`)
 variants/**/*.pdf
+!variants/senior-software-engineer/senior-software-engineer.pdf
+!variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf
 template/upstream-examples/*.pdf
 
 ### Editor ###
