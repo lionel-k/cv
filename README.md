@@ -4,10 +4,10 @@ Personal CV built with [Awesome-CV](https://github.com/posquit0/Awesome-CV) (cla
 
 ## CV — Senior Software Engineer
 
-| Langue | Télécharger |
-|--------|-------------|
-| English | [senior-software-engineer.pdf](https://github.com/lionel-k/cv/raw/main/variants/senior-software-engineer/senior-software-engineer.pdf) |
-| Français | [senior-software-engineer-fr.pdf](https://github.com/lionel-k/cv/raw/main/variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf) |
+| Langue | Consulter |
+|--------|-----------|
+| English | [senior-software-engineer.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/senior-software-engineer/senior-software-engineer.pdf) |
+| Français | [senior-software-engineer-fr.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf) |
 
 PDFs on `main` are regenerated automatically by CI on each push.
 
