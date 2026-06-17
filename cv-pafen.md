@@ -179,19 +179,43 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 ---
 
-## 6. Cahiers des charges et architectures produits
+## 6. Cahiers des charges, spécifications et architectures de systèmes d'information
 
-### Architecture MFE / OBR
+### Architecture ASYCUDA – EBMS – POS-OBR
 
-- **Description** : …
-- **Rôle** : …
-- **Résultats** : …
+**Client** : Office Burundais des Recettes (OBR)
+
+Conception de l'architecture globale d'intégration entre le système douanier ASYCUDA, la plateforme fiscale EBMS et la solution POS-OBR afin d'assurer la traçabilité des marchandises importées jusqu'à la facturation électronique.
+
+**Contributions principales**
+
+- Rédaction du cahier des charges fonctionnel et technique
+- Définition des flux d'intégration entre ASYCUDA, EBMS et POS-OBR
+- Conception des API REST et des modèles de données
+- Définition des règles de gouvernance, de validation et de traçabilité des données
+- Production des spécifications techniques, diagrammes de flux et plan de déploiement
+- Coordination des développements et suivi de la mise en œuvre
+
+**Compétences démontrées**
+
+Architecture de système d'information · Institution publique · Intégration API · Gouvernance des données · Spécifications fonctionnelles et techniques · Coordination de projet
 
 ### Architecture CMMS Nemidis
 
-- **Description** : …
-- **Rôle** : …
-- **Résultats** : …
+Conception de l'architecture globale d'une plateforme multi-institutions de gestion de maintenance des Machines de Facturation Électronique (MFE).
+
+**Contributions principales**
+
+- Rédaction du cahier des charges fonctionnel et technique
+- Définition de l'architecture multi-tenant et du modèle de données
+- Conception des workflows de maintenance, diagnostic, SLA et facturation
+- Définition des règles métier, contrôles d'accès et mécanismes de traçabilité
+- Planification des développements et supervision de l'implémentation
+- Participation au déploiement sur infrastructure cloud
+
+**Compétences démontrées**
+
+Architecture de système d'information · Cahier des charges · Modélisation de données · Gouvernance des données · Supervision de projet · Déploiement
 
 ---
 
