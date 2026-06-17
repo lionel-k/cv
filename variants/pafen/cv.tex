@@ -48,7 +48,7 @@
 }
 
 % Espacement uniforme entre blocs d'un même élément (projet, audit, expérience…)
-\newcommand{\cvblockskip}{\par\vspace{1mm}}
+\newcommand{\cvblockskip}{\par\vspace{0.5mm}}
 
 % Taille du texte atténué (puces, compétences, résultats)
 \newcommand{\cvdetailfont}{%
@@ -111,11 +111,13 @@
   \par
 }
 
-% Libellé + corps (Compétences démontrées, Résultats) — bloc court, seuil modéré
+% Libellé + corps (Compétences démontrées, Résultats) — bloc indivisible
 \newcommand{\cvdetailblock}[2]{%
   \Needspace{4\baselineskip}%
-  \cvdetailslabel{#1}%
-  \cvdetailtext{#2}%
+  \noindent\begin{minipage}[t]{\linewidth}
+  {\fontsize{8.5pt}{1em}\bodyfont\scshape\color{awesome}#1}\par\vspace{0.2mm}%
+  {\cvdetailfont #2}%
+  \end{minipage}\par
 }
 
 % Liste à puces atténuée — chaque puce exige un minimum d'espace restant
