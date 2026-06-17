@@ -141,7 +141,7 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 (…)
 
-### Ababove
+### Abbove
 
 **Senior Software Engineer** · _2025 – Présent_
 
@@ -206,7 +206,6 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 ## 8. Certifications et pièces justificatives
 
-- Diplôme d'ingénieur
-- Certificats techniques
-- Attestations d'emploi
-- Références professionnelles
+- Diplôme d'ingénieur UTT
+- Certificats de Scolarité (Université de Lille)
+- Certificat de Travail (Doctolib)
