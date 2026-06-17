@@ -1,0 +1,66 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV — Dossier de candidature PAFEN / SETIC (Burundi)
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{../../awesome-cv}
+
+\geometry{left=1.3cm, top=1.0cm, right=1.3cm, bottom=2.0cm, footskip=.5cm}
+
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+\colorlet{awesome}{awesome-skyblue}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+%-------------------------------------------------------------------------------
+% INFORMATIONS PERSONNELLES
+%-------------------------------------------------------------------------------
+\name{Lionel}{Kubwimana}
+\position{Expert-Consultant International{\enskip\cdotp\enskip}Développement de solutions logicielles \& transformation numérique}
+\address{Paris, France — mobilité internationale (Burundi)}
+
+\mobile{(+33) 6 15 44 29 22}
+\email{lionel.kubwimana@gmail.com}
+\github{lionel-k}
+\linkedin{l-kubwimana}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader[C]
+
+\makecvfooter
+  {\today}
+  {Lionel Kubwimana~~~·~~~Dossier de candidature — PAFEN/SETIC}
+  {\thepage}
+
+%-------------------------------------------------------------------------------
+% INFORMATIONS COMPLÉMENTAIRES (disponibilité, nationalités, langues)
+%-------------------------------------------------------------------------------
+\begin{cvparagraph}
+\begin{center}
+  \textbf{Disponibilité :} Temps plein — télétravail, déplacements au Burundi selon les besoins \\[3pt]
+  \textbf{Nationalités :} Burundaise \& Française \quad\textbar\quad
+  \textbf{Langues :} Kirundi (maternelle) · Français (courant) · Anglais (courant)
+\end{center}
+\end{cvparagraph}
+
+%-------------------------------------------------------------------------------
+% CONTENU DU DOSSIER
+%-------------------------------------------------------------------------------
+\input{sections/profile.tex}
+\input{sections/tdr-matrix.tex}
+\input{sections/education.tex}
+\input{sections/projects.tex}
+\input{sections/experience.tex}
+\input{sections/audits.tex}
+\input{sections/architectures.tex}
+\input{sections/capacity.tex}
+\input{sections/certifications.tex}
+
+\end{document}

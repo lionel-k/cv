@@ -9,6 +9,12 @@ Personal CV built with [Awesome-CV](https://github.com/posquit0/Awesome-CV) (cla
 | English | [senior-software-engineer.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/senior-software-engineer/senior-software-engineer.pdf) |
 | Français | [senior-software-engineer-fr.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf) |
 
+## Dossier de candidature — PAFEN / SETIC (Burundi)
+
+| Document | Consulter |
+|----------|-----------|
+| Dossier complet (français) | [pafen.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/pafen/pafen.pdf) |
+
 PDFs on `main` are regenerated automatically by CI on each push.
 
 ## Build
@@ -40,6 +46,14 @@ make dba
 
 Output: `variants/database-expert/database-expert.pdf`
 
+**Dossier PAFEN / SETIC** (candidature institutionnelle) :
+
+```bash
+make pafen
+```
+
+Output: `variants/pafen/pafen.pdf`
+
 ```bash
 make clean   # remove PDF and aux files for all variants
 ```
@@ -51,6 +65,7 @@ make clean   # remove PDF and aux files for all variants
 | [variants/senior-software-engineer/](variants/senior-software-engineer/) | English CV: edit `cv.tex` (header, contact) and `sections/*.tex` (content). |
 | [variants/senior-software-engineer-fr/](variants/senior-software-engineer-fr/) | French CV (same structure, translated content). |
 | [variants/database-expert/](variants/database-expert/) | PostgreSQL / data-layer emphasis: same structure, different sections and headline. |
+| [variants/pafen/](variants/pafen/) | Dossier institutionnel PAFEN/SETIC : 9 sections + matrice TDR, accent bleu. |
 | [template/upstream-examples/](template/upstream-examples/) | Archived Awesome-CV **résumé**, **CV**, and **cover letter** examples for reference. |
 
 ## Git remote
