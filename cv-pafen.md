@@ -244,6 +244,6 @@ Architecture de système d'information · Cahier des charges · Modélisation de
 
 ## 8. Certifications et pièces justificatives
 
-- Diplôme d'ingénieur UTT
+- Diplôme d'ingénieur (Université de Technologie de Troyes)
 - Certificats de Scolarité (Université de Lille)
 - Certificat de Travail (Doctolib)
