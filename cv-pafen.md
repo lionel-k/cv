@@ -78,7 +78,8 @@ Contribution à la modernisation du système d'information de l'OBR et à la dig
 - Conception et développement du module de gestion des marchandises importées : récupération du stock déclaré en douane, validation par le contribuable et synchronisation avec le stock local du POS
 - Mise en œuvre du mécanisme de traçabilité basé sur les références douanières DMC
 - Intégration opérationnelle entre ASYCUDA, EBMS et POS-OBR dans le système d'information de l'OBR
-- Supervision des développements et suivi de la mise en production
+- Coordination fonctionnelle et technique entre Nemidis, les équipes OBR et les parties prenantes du projet
+- Contribution à l'évolution d'un système utilisé par les contribuables burundais dans le cadre de la facturation électronique réglementaire
 - Estimation des charges, planification du projet et préparation du déploiement
 - Coordination des équipes techniques et des parties prenantes institutionnelles
 
@@ -287,7 +288,7 @@ Opérateur d'infrastructures télécoms et réseaux à fibre optique.
 
 ## 5. Audits et évaluations techniques
 
-### Audit 2 – Audit d'architecture du système NEMIDIS POS
+### Audit 1 – Audit d'architecture du système NEMIDIS POS
 
 |             |                           |
 | ----------- | ------------------------- |
