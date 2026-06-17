@@ -160,7 +160,7 @@ _Octobre 2024 – Présent · 1 an 9 mois · Temps partiel_
 
 _Bruxelles, Belgique – Télétravail_
 
-_Juillet 2025 – Juin 2026 · Mission en cours de clôture – en transition vers une nouvelle mission à temps plein_
+_Juillet 2025 – Juin 2026 · 1 an · En transition vers une nouvelle mission à temps plein_
 
 **Plateforme de gestion patrimoniale utilisée par des institutions financières européennes.**
 

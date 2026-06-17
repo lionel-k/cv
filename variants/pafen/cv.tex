@@ -13,6 +13,12 @@
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage[french]{babel}
+\usepackage{needspace}
+
+% Coupes de page : éviter veuves/orphelines
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
 
 % Date française dans le pied de page (ex. 17 juin 2026)
 \newcommand{\cvtoday}{%
@@ -28,6 +34,13 @@
 \renewcommand*{\headerpositionstyle}[1]{{\fontsize{9.5pt}{1.15em}\bodyfont\scshape\color{awesome} #1}}
 \renewcommand{\acvSectionTopSkip}{1.5mm}
 \renewcommand{\acvSectionContentTopSkip}{1mm}
+
+% Section numérotée : garder le titre avec le début du contenu
+\let\pafencvsection\cvsection
+\renewcommand{\cvsection}[1]{%
+  \Needspace{5\baselineskip}%
+  \pafencvsection{#1}%
+}
 
 % Espacement uniforme entre blocs d'un même élément (projet, audit, expérience…)
 \newcommand{\cvblockskip}{\par\vspace{1mm}}
@@ -46,23 +59,29 @@
   \par\vspace{0.5mm}%
 }
 
-% Titre d'élément (Projet 1, Nemidis, Architecture…)
+% Titre d'élément — réserve l'espace pour titre + métadonnées + début de résumé
 \renewcommand{\cvsubsection}[1]{%
+  \Needspace{6\baselineskip}%
   \subsectionstyle{#1}%
   \phantomsection
+  \nopagebreak[4]%
 }
 
 % Métadonnées : période, rôle, client, lieu
 \newenvironment{cvmetadata}{%
   \vspace{0.8mm}%
+  \nopagebreak[4]%
   \paragraphstyle
 }{%
   \par\cvblockskip
+  \nopagebreak[4]%
 }
 
 % Description principale (mise en avant)
 \newenvironment{cvprojectsummary}{%
+  \Needspace{3\baselineskip}%
   \vspace{0.8mm}%
+  \nopagebreak[3]%
   \noindent\begingroup
   \fontsize{10.5pt}{1.35em}\selectfont
   \bodyfont\color{text}%
@@ -73,11 +92,14 @@
 % Libellé de sous-bloc (Réalisations, Contributions, Compétences…)
 \newcommand{\cvdetailslabel}[1]{%
   \cvblockskip
+  \nopagebreak[3]%
   \noindent{\fontsize{8.5pt}{1em}\bodyfont\scshape\color{awesome}#1}\par
+  \nopagebreak[4]%
 }
 
 % Corps atténué sous un libellé
 \newcommand{\cvdetailtext}[1]{%
+  \Needspace{2\baselineskip}%
   \vspace{0.2mm}%
   \begingroup
   \cvdetailfont
@@ -107,6 +129,7 @@
 % Libellé + liste (Réalisations, Contributions, Travaux réalisés)
 \newenvironment{cvdetailslist}[1]{%
   \cvdetailslabel{#1}%
+  \Needspace{3\baselineskip}%
   \begin{cvdetailitems}
 }{%
   \end{cvdetailitems}%
@@ -115,6 +138,7 @@
 % Liste de missions sans libellé (expérience professionnelle)
 \newenvironment{cvdetailmissions}{%
   \cvblockskip
+  \Needspace{3\baselineskip}%
   \begin{cvdetailitems}
 }{%
   \end{cvdetailitems}%
@@ -133,7 +157,9 @@
   \ifcv@firstgroup
     \global\cv@firstgroupfalse
   \else
+    \Needspace{5\baselineskip}%
     \par\vspace{2.5mm}%
+    \nopagebreak[3]%
     \noindent{\color{awesome!60}\hrule height 0.6pt width \textwidth}%
     \par\vspace{2.5mm}%
   \fi
@@ -141,6 +167,7 @@
 
 \newenvironment{cvgroup}{%
   \cv@groupseparator
+  \Needspace{4\baselineskip}%
   \par\vspace{0.5mm}%
   \begingroup
   \setlength{\parindent}{0pt}%
