@@ -28,20 +28,20 @@ De nationalité burundaise, locuteur natif du Kirundi, avec une connaissance dir
 
 ## 2. Matrice de conformité aux exigences des TDR
 
-| Exigence TDR (Section IX)                                 | Preuve                                                                                                                                                                             |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Master ou Ingéniorat en informatique / génie logiciel     | Ingénieur (Bac+5 / niveau Master) en Réseaux et Télécommunications — UTT, France — voir section 3                                                                                  |
-| 10 ans d'expérience conception / développement SI         | Plus de 10 ans : Covage (2015) → présent — voir section 5                                                                                                                          |
-| Dont **≥ 5 ans secteur public**                           | ~7 ans : Covage (RIP / délégation de service public, 2015–2017) · Doctolib (téléservice public national, 2020–2022) · Nemidis / OBR (institution publique nationale, 2024–présent) |
-| Technologies de développement (PHP, JS, frameworks)       | Ruby on Rails · **PHP** · React · Next.js · Node.js · TypeScript · Docker · CI/CD                                                                                                  |
-| SGBD                                                      | PostgreSQL · MySQL · SQLite · Redis (NoSQL)                                                                                                                                        |
-| Intégration API REST (≥ 3 ans)                            | REST · JSON · SFTP · Webhooks · Microservices — Climb (2023–2025), Doctolib (2020–2022), Joinly (2018–2019)                                                                        |
-| **2 audits d'applications (< 3 ans)**                     | Audit NEMIDIS POS (2025) · Audit architecture des accès Abbove (2026) — voir section 6                                                                                             |
-| Supervision ≥ 2 projets SI d'envergure                    | OBR / MFE / ASYCUDA–EBMS (2025–2026) · Doctolib e-Prescription (2020–2022) · Climb Data Platform (2023–2025) — voir section 4                                                      |
-| **≥ 1 cahier des charges / architecture globale d'un SI** | Architecture ASYCUDA–EBMS–POS-OBR · Architecture CMMS Nemidis — voir section 7                                                                                                     |
-| Français et Anglais courants                              | Courant (professionnel et quotidien)                                                                                                                                               |
-| **Kirundi** (avantage)                                    | Langue maternelle                                                                                                                                                                  |
-| Collaboration avec institutions publiques                 | OBR (Office Burundais des Recettes) — institution publique nationale                                                                                                               |
+| Exigence TDR (Section IX)                             | Preuve                                                                                                                                                                             |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Master ou Ingéniorat en informatique / génie logiciel | Ingénieur (Bac+5 / niveau Master) en Réseaux et Télécommunications — UTT, France — voir section 3                                                                                  |
+| 10 ans d'expérience conception / développement SI     | Plus de 10 ans : Covage (2015) → présent — voir section 5                                                                                                                          |
+| Dont ≥ 5 ans secteur public                           | ~7 ans : Covage (RIP / délégation de service public, 2015–2017) · Doctolib (téléservice public national, 2020–2022) · Nemidis / OBR (institution publique nationale, 2024–présent) |
+| Technologies de développement (PHP, JS, frameworks)   | Ruby on Rails · PHP · React · Next.js · Node.js · TypeScript · Docker · CI/CD                                                                                                      |
+| SGBD                                                  | PostgreSQL · MySQL · SQLite · Redis (NoSQL)                                                                                                                                        |
+| Intégration API REST (≥ 3 ans)                        | REST · JSON · SFTP · Webhooks · Microservices — Climb (2023–2025), Doctolib (2020–2022), Joinly (2018–2019)                                                                        |
+| 2 audits d'applications (< 3 ans)                     | Audit NEMIDIS POS (2025) · Audit architecture des accès Abbove (2026) — voir section 6                                                                                             |
+| Supervision ≥ 2 projets SI d'envergure                | OBR / MFE / ASYCUDA–EBMS (2025–2026) · Doctolib e-Prescription (2020–2022) · Climb Data Platform (2023–2025) — voir section 4                                                      |
+| ≥ 1 cahier des charges / architecture globale d'un SI | Architecture ASYCUDA–EBMS–POS-OBR · Architecture CMMS Nemidis — voir section 7                                                                                                     |
+| Français et Anglais courants                          | Courant (professionnel et quotidien)                                                                                                                                               |
+| Kirundi (avantage)                                    | Langue maternelle                                                                                                                                                                  |
+| Collaboration avec institutions publiques             | OBR (Office Burundais des Recettes) — institution publique nationale                                                                                                               |
 
 ---
 
@@ -89,7 +89,7 @@ Institution publique · Système d'information national · Digitalisation des se
 | **Période** | Juin 2020 – Décembre 2022 |
 | **Rôle**    | Ingénieur Logiciel Senior |
 
-Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques — **téléservice public de santé numérique** utilisé quotidiennement par les professionnels de santé en France, intégré aux services numériques de l'État français.
+Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques — téléservice public de santé numérique utilisé quotidiennement par les professionnels de santé en France, intégré aux services numériques de l'État français.
 
 **Principales réalisations**
 
@@ -142,7 +142,7 @@ _Bujumbura, Burundi – Télétravail / Missions terrain_
 
 _Octobre 2024 – Présent · 1 an 9 mois · Temps partiel_
 
-Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux **institutions publiques** (Office Burundais des Recettes – OBR) et aux entreprises au Burundi.
+**Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux institutions publiques (Office Burundais des Recettes – OBR) et aux entreprises au Burundi.**
 
 - Définition de la stratégie technique et de l'architecture des plateformes digitales de l'entreprise
 - Conception et supervision de systèmes d'information liés à la fiscalité électronique et à la maintenance des Machines de Facturation Électronique (MFE)
@@ -162,7 +162,7 @@ _Bruxelles, Belgique – Télétravail_
 
 _Juillet 2025 – Juin 2026 · Mission en cours de clôture – en transition vers une nouvelle mission à temps plein_
 
-Plateforme de gestion patrimoniale utilisée par des institutions financières européennes.
+**Plateforme de gestion patrimoniale utilisée par des institutions financières européennes.**
 
 - Conception et évolution de composants du système d'information patrimonial pour des clients institutionnels, notamment BNP Paribas
 - Définition et mise en œuvre de modèles de données complexes pour la gestion des actifs financiers et des structures de propriété
@@ -178,7 +178,7 @@ _Paris, France – Hybride_
 
 _Janvier 2023 – Juin 2025 · 2 ans 5 mois_
 
-Plateforme numérique de conseil patrimonial et fiscal.
+**Plateforme numérique de conseil patrimonial et fiscal.**
 
 - Conception et mise en œuvre d'une plateforme d'intégration de données financières reliant plusieurs compagnies d'assurance au système d'information central
 - Définition et maintenance des flux d'échange de données entre partenaires externes, Salesforce et applications métier
@@ -194,7 +194,7 @@ _Paris, France – Hybride_
 
 _Juin 2020 – Décembre 2022 · 2 ans 6 mois_
 
-**Téléservice public de santé numérique** — plateforme nationale d'ordonnances électroniques intégrée aux services numériques de l'État français (e-Prescription, CNAM).
+**Téléservice public de santé numérique — plateforme nationale d'ordonnances électroniques intégrée aux services numériques de l'État français (e-Prescription).**
 
 - Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques utilisée par les professionnels de santé en France
 - Contribution à l'intégration des services nationaux d'e-Prescription et des plateformes publiques de santé
@@ -208,9 +208,9 @@ _Juin 2020 – Décembre 2022 · 2 ans 6 mois_
 
 _Télétravail_
 
-_Mars 2021 – Présent · Projet personnel / side-project_
+_Mars 2021 – Présent_
 
-Plateforme numérique multilingue dédiée à l'apprentissage des langues africaines et à la diffusion de contenus éducatifs.
+**Plateforme numérique multilingue dédiée à l'apprentissage des langues africaines et à la diffusion de contenus éducatifs.**
 
 - Conception de l'architecture globale de la plateforme et du modèle de données
 - Développement d'une plateforme de commerce électronique pour la diffusion de contenus éducatifs dans plus de 180 langues et variantes linguistiques
@@ -226,7 +226,7 @@ _Paris, France – Sur site_
 
 _Juillet 2019 – Juin 2020 · 11 mois_
 
-Plateforme numérique d'onboarding et de gestion des parcours collaborateurs.
+**Plateforme numérique d'onboarding et de gestion des parcours collaborateurs.**
 
 - Participation à l'évolution du système d'information RH et à l'amélioration des workflows métiers
 - Conception et amélioration de composants applicatifs critiques pour la communication interne
@@ -242,7 +242,7 @@ _Paris, France – Sur site_
 
 _Janvier 2019 – Juin 2019 · 5 mois_
 
-Programme international de formation au développement logiciel.
+**Programme international de formation au développement logiciel.**
 
 - Formation d'étudiants aux fondamentaux du développement logiciel, de la programmation orientée objet et des applications web
 - Accompagnement des apprenants dans la conception, le développement et le déploiement de projets numériques
@@ -257,7 +257,7 @@ _Paris, France – Sur site_
 
 _Janvier 2018 – Janvier 2019 · 1 an_
 
-Plateforme de gestion administrative et financière pour les organisations sportives.
+**Plateforme de gestion administrative et financière pour les organisations sportives.**
 
 - Participation au développement du système d'information de gestion des paiements des arbitres
 - Intégration de services de paiement externes via API
@@ -272,7 +272,7 @@ _Paris, France – Sur site_
 
 _Février 2015 – Septembre 2017 · 2 ans 7 mois_
 
-Opérateur d'infrastructures télécoms et réseaux à fibre optique, intervenant dans le cadre de **réseaux d'initiative publique (RIP) et de délégations de service public pour des collectivités territoriales**.
+**Opérateur d'infrastructures télécoms et réseaux à fibre optique, intervenant dans le cadre de réseaux d'initiative publique (RIP) et de délégations de service public pour des collectivités territoriales**.
 
 - Participation à l'automatisation des déploiements et à la supervision de services réseau
 - Conception d'outils d'audit et de contrôle des infrastructures techniques
