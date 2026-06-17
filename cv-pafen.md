@@ -106,27 +106,42 @@ Participation à la conception, au développement et à la maintenance de l'appl
 - Architecture logicielle
 - Services publics numériques
 
-### Projet 3 – Plateforme d'intégration financière Climb
+### Projet Climb – Plateforme d'intégration de données financières
 
 |             |                           |
 | ----------- | ------------------------- |
 | **Période** | 2023 – 2025               |
-| **Rôle**    | Ingénieur Logiciel Senior |
+| **Rôle**    | Ingénieur logiciel senior |
 
-**Description**
+Conception et évolution d'une plateforme d'intégration de données financières reliant cinq compagnies d'assurance (Vie Plus, Generali, Apicil, Swiss Life et Lombard Odier) au système d'information central de Climb.
 
-Conception d'une plateforme d'intégration de données financières entre cinq compagnies d'assurance et le système d'information central de Climb.
+La plateforme collecte, transforme, stocke et synchronise les données financières afin d'alimenter les applications métier, Salesforce et les espaces clients.
 
 **Réalisations**
 
-- Collecte automatisée de données via API et SFTP
-- Normalisation des flux
-- Intégration dans le SI interne
-- Mise à disposition des données aux utilisateurs
+- Conception d'une plateforme d'intégration permettant la collecte automatisée des données provenant de cinq assureurs partenaires
+- Mise en place de flux d'échanges via API REST, SFTP, webhooks et fichiers XML
+- Normalisation des données financières dans un modèle unique basé sur PostgreSQL
+- Intégration des contrats, mouvements financiers, allocations et valorisations dans le système d'information central
+- Synchronisation des données entre les assureurs, Salesforce et les applications internes
+- Développement d'API REST utilisées par les applications web et les espaces clients
+- Mise en place de contrôles de qualité, de supervision et de suivi des flux de données
+- Participation à l'architecture technique, à la maintenance et à l'évolution de la plateforme
+
+**Technologies**
+
+Ruby on Rails · PostgreSQL · REST · JSON · XML · SFTP · Salesforce · Redis · Sidekiq · Docker
 
 **Compétences démontrées**
 
-Intégration de systèmes · Architecture de données · API · SFTP · Gouvernance des données
+- Intégration de systèmes d'information
+- Architecture de données
+- API REST
+- Gouvernance des données
+- Synchronisation multi-systèmes
+- Traitement automatisé de flux
+- Plateformes digitales
+- Conception et maintenance de systèmes d'information
 
 ---
 
