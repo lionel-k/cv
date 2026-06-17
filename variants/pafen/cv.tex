@@ -17,31 +17,64 @@
 \setbool{acvSectionColorHighlight}{true}
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 \renewcommand*{\headerpositionstyle}[1]{{\fontsize{9.5pt}{1.15em}\bodyfont\scshape\color{awesome} #1}}
+\renewcommand{\acvSectionTopSkip}{1.5mm}
+\renewcommand{\acvSectionContentTopSkip}{1mm}
+
+% Espacement réduit pour paragraphes et sous-sections
+\renewenvironment{cvparagraph}{%
+  \vspace{0.5mm}%
+  \paragraphstyle
+}{%
+  \par\vspace{0.5mm}%
+}
+
+\renewcommand{\cvsubsection}[1]{%
+  \vspace{0.8mm}%
+  \subsectionstyle{#1}%
+  \phantomsection
+}
 
 % Description principale de projet/audit (mise en avant)
 \newenvironment{cvprojectsummary}{%
-  \vspace{1mm}
+  \vspace{0.5mm}%
   \noindent\begingroup
-  \fontsize{10.5pt}{1.45em}\selectfont
+  \fontsize{10.5pt}{1.35em}\selectfont
   \bodyfont\color{text}%
 }{%
-  \par\endgroup\vspace{2.5mm}%
+  \par\endgroup\vspace{1mm}%
 }
 
 % Libellé pour les listes de détail (secondaires)
 \newcommand{\cvdetailslabel}[1]{%
-  \vspace{0.5mm}%
-  \noindent{\fontsize{8pt}{1em}\bodyfont\scshape\color{awesome}#1}\\[1.5mm]%
+  \vspace{0.3mm}%
+  \noindent{\fontsize{8pt}{1em}\bodyfont\scshape\color{awesome}#1}\\[0.8mm]%
+}
+
+% Corps atténué sous un libellé (compétences, résultats)
+\newcommand{\cvdetailtext}[1]{%
+  \begingroup
+  \fontsize{8.5pt}{1.2em}\selectfont
+  \bodyfontlight\color{graytext}%
+  #1%
+  \endgroup
+  \par\vspace{0.3mm}%
+}
+
+% Bloc libellé + corps (même style que Réalisations / Contributions)
+\newcommand{\cvdetailblock}[2]{%
+  \cvdetailslabel{#1}%
+  \cvdetailtext{#2}%
 }
 
 % Liste de détail atténuée
 \newenvironment{cvdetailitems}{%
   \begingroup
-  \fontsize{8.5pt}{1.25em}\selectfont
+  \fontsize{8.5pt}{1.2em}\selectfont
   \bodyfontlight\color{graytext}%
   \begin{cvitems}
 }{%
   \end{cvitems}%
+  \vspace{-0.8ex}%
   \endgroup
 }
 
@@ -58,21 +91,21 @@
   \ifcv@firstgroup
     \global\cv@firstgroupfalse
   \else
-    \par\vspace{5mm}%
-    \noindent{\color{awesome!60}\hrule height 0.8pt width \textwidth}%
-    \par\vspace{6mm}%
+    \par\vspace{2.5mm}%
+    \noindent{\color{awesome!60}\hrule height 0.6pt width \textwidth}%
+    \par\vspace{2.5mm}%
   \fi
 }
 
 \newenvironment{cvgroup}{%
   \cv@groupseparator
-  \par\vspace{2mm}%
+  \par\vspace{0.5mm}%
   \begingroup
   \setlength{\parindent}{0pt}%
-  \addtolength{\leftskip}{8pt}%
+  \addtolength{\leftskip}{6pt}%
 }{%
   \par\endgroup
-  \vspace{4mm}%
+  \vspace{1.5mm}%
 }
 \makeatother
 
