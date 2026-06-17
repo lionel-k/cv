@@ -103,7 +103,6 @@
 
 % Corps atténué sous un libellé
 \newcommand{\cvdetailtext}[1]{%
-  \Needspace{2\baselineskip}%
   \vspace{0.2mm}%
   \begingroup
   \cvdetailfont
@@ -112,9 +111,9 @@
   \par
 }
 
-% Libellé + corps (Compétences démontrées, Résultats)
+% Libellé + corps (Compétences démontrées, Résultats) — bloc court, seuil modéré
 \newcommand{\cvdetailblock}[2]{%
-  \pafenNeedspaceList
+  \Needspace{4\baselineskip}%
   \cvdetailslabel{#1}%
   \cvdetailtext{#2}%
 }
