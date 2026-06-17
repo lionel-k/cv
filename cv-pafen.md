@@ -16,7 +16,7 @@
 
 ## 1. Profil
 
-Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le développement, l'intégration et la maintenance de plateformes digitales et de systèmes d'information, **dont plus de 5 ans au service du secteur public et des services publics numériques** (fiscalité électronique, santé numérique, infrastructures télécoms d'initiative publique).
+Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le développement, l'intégration et la maintenance de plateformes digitales et de systèmes d'information, dont plus de 5 ans au service du secteur public et des services publics numériques (fiscalité électronique, santé numérique, infrastructures télécoms d'initiative publique).
 
 Expérience dans la réalisation de projets de transformation numérique à grande échelle dans les secteurs de la santé, de la finance, de la fiscalité et des services numériques publics, avec une attention particulière aux exigences fonctionnelles et non-fonctionnelles (sécurité, accessibilité, aspects réglementaires et opérationnels).
 
