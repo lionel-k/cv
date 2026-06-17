@@ -287,7 +287,38 @@ Opérateur d'infrastructures télécoms et réseaux à fibre optique.
 
 ## 5. Audits et évaluations techniques
 
-### Audit 1 – Audit de l'architecture de gestion des accès (Abbove)
+### Audit 2 – Audit d'architecture du système NEMIDIS POS
+
+|             |                           |
+| ----------- | ------------------------- |
+| **Période** | 2025                      |
+| **Client**  | Nemidis Technologies      |
+| **Rôle**    | CTO / Architecte logiciel |
+
+Prise en charge d'une plateforme critique de facturation électronique utilisée dans le cadre des obligations fiscales de l'Office Burundais des Recettes (OBR).
+
+**Travaux réalisés**
+
+- Analyse du code source et de l'architecture existante
+- Cartographie des composants applicatifs, bases de données et services d'arrière-plan
+- Analyse des intégrations avec les services EBMS de l'OBR
+- Documentation des flux métier de facturation, gestion de stock, synchronisation fiscale et géolocalisation
+- Évaluation des mécanismes de sécurité, permissions et audit trail
+- Production d'une documentation d'architecture destinée aux développeurs et aux parties prenantes
+- Identification des axes d'amélioration pour les futures évolutions du système
+
+**Résultats**
+
+- Constitution d'une documentation de référence du système
+- Réduction du risque de dépendance à la connaissance individuelle
+- Facilitation de l'intégration des nouveaux développeurs
+- Base utilisée pour les futurs projets d'intégration ASYCUDA–EBMS et les évolutions du POS
+
+**Compétences démontrées**
+
+Audit applicatif · Cartographie de système d'information · Analyse d'architecture · Documentation technique · Gouvernance applicative · Intégration de systèmes
+
+### Audit 2 – Audit de l'architecture de gestion des accès (Abbove)
 
 |             |                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------- |
@@ -316,12 +347,6 @@ Analyse du système de gestion des accès et des droits utilisateurs afin de doc
 **Compétences démontrées**
 
 Audit de système d'information · Gouvernance des accès · Architecture logicielle · Analyse des risques · Documentation technique · Présentation exécutive · Sécurité applicative
-
-### Audit 2
-
-- **Contexte** : …
-- **Méthodologie** : …
-- **Résultats** : …
 
 ---
 
