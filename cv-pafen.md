@@ -2,64 +2,59 @@
 
 **Expert-Consultant International – Développement de Solutions Logicielles et Transformation Numérique**
 
-|                  |                              |
-| ---------------- | ---------------------------- |
-| **Email**        | lionel.kubwimana@gmail.com   |
-| **Téléphone**    | +33 6 15 44 29 22 (Whatsapp) |
-| **GitHub**       | https://github.com/lionel-k  |
-| **Nationalités** | Burundaise & Française       |
-| **Langues**      | Français, Anglais, Kirundi   |
+|                   |                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| **Email**         | lionel.kubwimana@gmail.com                                                                               |
+| **Téléphone**     | +33 6 15 44 29 22 (Whatsapp)                                                                             |
+| **GitHub**        | https://github.com/lionel-k                                                                              |
+| **Localisation**  | Paris, France (mobilité internationale)                                                                  |
+| **Disponibilité** | Temps plein, principalement en télétravail, avec déplacements au Burundi selon les besoins de la mission |
+| **Nationalités**  | Burundaise & Française                                                                                   |
+| **Langues**       | Kirundi (langue maternelle) · Français (courant) · Anglais (courant)                                     |
 
 ---
 
 ## 1. Profil
 
-Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le développement, l'intégration et la maintenance de plateformes digitales et de systèmes d'information.
+Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le développement, l'intégration et la maintenance de plateformes digitales et de systèmes d'information, **dont plus de 5 ans au service du secteur public et des services publics numériques** (fiscalité électronique, santé numérique, infrastructures télécoms d'initiative publique).
 
-Expérience dans la réalisation de projets de transformation numérique à grande échelle dans les secteurs de la santé, de la finance, de la fiscalité et des services numériques.
+Expérience dans la réalisation de projets de transformation numérique à grande échelle dans les secteurs de la santé, de la finance, de la fiscalité et des services numériques publics, avec une attention particulière aux exigences fonctionnelles et non-fonctionnelles (sécurité, accessibilité, aspects réglementaires et opérationnels).
 
-Compétences en architecture logicielle, intégration de systèmes, API REST, bases de données, gouvernance des données, audit technique, qualité logicielle, supervision de projets numériques et renforcement des capacités des équipes techniques.
+Compétences en architecture logicielle, intégration de systèmes, API REST, bases de données, gouvernance des données publiques, audit technique, qualité logicielle, supervision de projets numériques, renforcement des capacités et transfert de compétences auprès d'équipes techniques.
 
-Expérience de collaboration avec des institutions publiques burundaises (OBR) dans le cadre de la digitalisation des processus fiscaux via les Machines de Facturation Électronique (MFE).
-
----
-
-## 2. Correspondance avec les exigences des TDR
-
-### Formation
-
-- Diplôme d'Ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes (France)
-- Formation Développeur Full Stack – Le Wagon (France)
-
-### Langues
-
-- **Français** : Courant
-- **Anglais** : Courant
-- **Kirundi** : Langue maternelle
-
-### Technologies de développement
-
-Ruby on Rails · React · Next.js · Node.js · TypeScript · Docker · GitHub Actions · CI/CD
-
-### Bases de données
-
-PostgreSQL · MySQL · SQLite · Redis (NoSQL)
-
-### Architecture et conception
-
-Modélisation de données · Architecture applicative · Architecture SI
-
-### Intégration de systèmes
-
-REST · JSON · SFTP · Webhooks · Microservices
-
-### Expérience totale
-
-Plus de 10 ans d'expérience dans les systèmes d'information et plateformes digitales.
+De nationalité burundaise, locuteur natif du Kirundi, avec une connaissance directe du contexte institutionnel et culturel du Burundi — atouts déterminants pour accompagner une mission nationale de digitalisation des services publics et d'e-gouvernement au sein du SETIC.
 
 ---
 
-## 3. Projets de grande envergure pertinents
+## 2. Matrice de conformité aux exigences des TDR
+
+| Exigence TDR (Section IX)                                 | Preuve                                                                                                                                                                             |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Master ou Ingéniorat en informatique / génie logiciel     | Ingénieur (Bac+5 / niveau Master) en Réseaux et Télécommunications — UTT, France — voir section 3                                                                                  |
+| 10 ans d'expérience conception / développement SI         | Plus de 10 ans : Covage (2015) → présent — voir section 5                                                                                                                          |
+| Dont **≥ 5 ans secteur public**                           | ~7 ans : Covage (RIP / délégation de service public, 2015–2017) · Doctolib (téléservice public national, 2020–2022) · Nemidis / OBR (institution publique nationale, 2024–présent) |
+| Technologies de développement (PHP, JS, frameworks)       | Ruby on Rails · **PHP** · React · Next.js · Node.js · TypeScript · Docker · CI/CD                                                                                                  |
+| SGBD                                                      | PostgreSQL · MySQL · SQLite · Redis (NoSQL)                                                                                                                                        |
+| Intégration API REST (≥ 3 ans)                            | REST · JSON · SFTP · Webhooks · Microservices — Climb (2023–2025), Doctolib (2020–2022), Joinly (2018–2019)                                                                        |
+| **2 audits d'applications (< 3 ans)**                     | Audit NEMIDIS POS (2025) · Audit architecture des accès Abbove (2026) — voir section 6                                                                                             |
+| Supervision ≥ 2 projets SI d'envergure                    | OBR / MFE / ASYCUDA–EBMS (2025–2026) · Doctolib e-Prescription (2020–2022) · Climb Data Platform (2023–2025) — voir section 4                                                      |
+| **≥ 1 cahier des charges / architecture globale d'un SI** | Architecture ASYCUDA–EBMS–POS-OBR · Architecture CMMS Nemidis — voir section 7                                                                                                     |
+| Français et Anglais courants                              | Courant (professionnel et quotidien)                                                                                                                                               |
+| **Kirundi** (avantage)                                    | Langue maternelle                                                                                                                                                                  |
+| Collaboration avec institutions publiques                 | OBR (Office Burundais des Recettes) — institution publique nationale                                                                                                               |
+
+---
+
+## 3. Formation
+
+- **Ingénieur (Bac+5 / niveau Master) en Réseaux et Télécommunications** — Université de Technologie de Troyes (France)
+- **Développeur Full Stack** — Le Wagon (France)
+
+_Diplômes, attestations et certificats de travail disponibles — voir section 9_
+
+---
+
+## 4. Projets de grande envergure pertinents
 
 ### Projet 1 – OBR / MFE / ASYCUDA / EBMS | Nemidis Technologies
 
@@ -71,7 +66,7 @@ Plus de 10 ans d'expérience dans les systèmes d'information et plateformes dig
 
 Mise en œuvre et coordination de l'intégration entre ASYCUDA, EBMS et POS-OBR pour assurer la traçabilité des marchandises importées depuis le dédouanement jusqu'à la facturation électronique au sein du système d'information de l'OBR.
 
-Contribution à la modernisation du système d'information de l'OBR et à la digitalisation des processus fiscaux.
+Contribution à la modernisation du système d'information de l'OBR et à la digitalisation des processus fiscaux dans le cadre de la stratégie nationale d'e-gouvernement du Burundi.
 
 **Réalisations**
 
@@ -85,7 +80,7 @@ Contribution à la modernisation du système d'information de l'OBR et à la dig
 
 **Compétences démontrées**
 
-Institution publique · Système d'information national · Digitalisation des services publics · Intégration de systèmes · Supervision des développements · Coordination de projet · Traçabilité des données
+Institution publique · Système d'information national · Digitalisation des services publics · E-gouvernement · Intégration de systèmes · Supervision des développements · Coordination de projet · Traçabilité des données
 
 ### Projet 2 – Plateforme nationale d'ordonnances électroniques | Doctolib
 
@@ -94,7 +89,7 @@ Institution publique · Système d'information national · Digitalisation des se
 | **Période** | Juin 2020 – Décembre 2022 |
 | **Rôle**    | Ingénieur Logiciel Senior |
 
-Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques utilisée par les professionnels de santé en France.
+Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques — **téléservice public de santé numérique** utilisé quotidiennement par les professionnels de santé en France, intégré aux services numériques de l'État français.
 
 **Principales réalisations**
 
@@ -103,10 +98,11 @@ Participation à la conception, au développement et à la maintenance de l'appl
 - Intégration avec les API et services numériques de l'État français dans le cadre de la dématérialisation des parcours de soins
 - Conception et développement de fonctionnalités critiques garantissant l'intégrité, la sécurité et la traçabilité des données médicales
 - Participation aux tests, aux déploiements continus et à la maintenance d'un système d'information national à forte volumétrie
+- Vérification de la conformité des livrables avec les cahiers des charges et les normes fonctionnelles et non-fonctionnelles (sécurité, accessibilité, réglementaire)
 
 **Compétences démontrées**
 
-Système d'information national · Interopérabilité entre plateformes · Intégration API · Sécurité des données · Architecture logicielle · Services publics numériques
+Secteur public numérique · Système d'information national · Interopérabilité entre plateformes · Intégration API · Sécurité des données · Architecture logicielle · Services publics numériques
 
 ### Projet 3 – Plateforme d'intégration de données financières | Climb
 
@@ -136,7 +132,7 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 ---
 
-## 4. Expérience professionnelle détaillée
+## 5. Expérience professionnelle détaillée
 
 ### Nemidis Technologies
 
@@ -144,9 +140,9 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 _Bujumbura, Burundi – Télétravail / Missions terrain_
 
-_Octobre 2024 – Présent · 1 an 9 mois_
+_Octobre 2024 – Présent · 1 an 9 mois · Temps partiel_
 
-Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux institutions publiques et aux entreprises au Burundi.
+Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux **institutions publiques** (Office Burundais des Recettes – OBR) et aux entreprises au Burundi.
 
 - Définition de la stratégie technique et de l'architecture des plateformes digitales de l'entreprise
 - Conception et supervision de systèmes d'information liés à la fiscalité électronique et à la maintenance des Machines de Facturation Électronique (MFE)
@@ -164,7 +160,7 @@ Entreprise spécialisée dans les solutions de digitalisation et les systèmes d
 
 _Bruxelles, Belgique – Télétravail_
 
-_Juillet 2025 – Présent · 1 an_
+_Juillet 2025 – Juin 2026 · Mission en cours de clôture – en transition vers une nouvelle mission à temps plein_
 
 Plateforme de gestion patrimoniale utilisée par des institutions financières européennes.
 
@@ -198,7 +194,7 @@ _Paris, France – Hybride_
 
 _Juin 2020 – Décembre 2022 · 2 ans 6 mois_
 
-Plateforme nationale de santé numérique.
+**Téléservice public de santé numérique** — plateforme nationale d'ordonnances électroniques intégrée aux services numériques de l'État français (e-Prescription, CNAM).
 
 - Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques utilisée par les professionnels de santé en France
 - Contribution à l'intégration des services nationaux d'e-Prescription et des plateformes publiques de santé
@@ -208,11 +204,11 @@ Plateforme nationale de santé numérique.
 
 ### Lingu.Africa
 
-**Fondateur / Architecte Applicatif**
+**Fondateur / Architecte Applicatif _(projet personnel)_**
 
 _Télétravail_
 
-_Mars 2021 – Présent · 5 ans 4 mois_
+_Mars 2021 – Présent · Projet personnel / side-project_
 
 Plateforme numérique multilingue dédiée à l'apprentissage des langues africaines et à la diffusion de contenus éducatifs.
 
@@ -276,17 +272,17 @@ _Paris, France – Sur site_
 
 _Février 2015 – Septembre 2017 · 2 ans 7 mois_
 
-Opérateur d'infrastructures télécoms et réseaux à fibre optique.
+Opérateur d'infrastructures télécoms et réseaux à fibre optique, intervenant dans le cadre de **réseaux d'initiative publique (RIP) et de délégations de service public pour des collectivités territoriales**.
 
 - Participation à l'automatisation des déploiements et à la supervision de services réseau
 - Conception d'outils d'audit et de contrôle des infrastructures techniques
 - Contribution à l'évolution des systèmes de gestion et d'exploitation des réseaux
 - Coordination de développements techniques et accompagnement de stagiaires
-- Participation à des projets d'infrastructure à grande échelle dans le secteur des télécommunications
+- Participation à des projets d'infrastructure à grande échelle dans le secteur des télécommunications publiques
 
 ---
 
-## 5. Audits et évaluations techniques
+## 6. Audits et évaluations techniques
 
 ### Audit 1 – Audit d'architecture du système NEMIDIS POS
 
@@ -351,13 +347,13 @@ Audit de système d'information · Gouvernance des accès · Architecture logici
 
 ---
 
-## 6. Cahiers des charges, spécifications et architectures de systèmes d'information
+## 7. Cahiers des charges, spécifications et architectures de systèmes d'information
 
 ### Architecture ASYCUDA – EBMS – POS-OBR
 
 **Client** : Office Burundais des Recettes (OBR)
 
-Production des livrables d'architecture et de spécification pour l'intégration du système douanier ASYCUDA, de la plateforme fiscale EBMS et de la solution POS-OBR.
+Production des livrables d'architecture et de spécification pour l'intégration du système douanier ASYCUDA, de la plateforme fiscale EBMS et de la solution POS-OBR, dans le cadre de la digitalisation des services fiscaux publics au Burundi.
 
 **Contributions principales**
 
@@ -365,12 +361,12 @@ Production des livrables d'architecture et de spécification pour l'intégration
 - Modélisation des données et production des diagrammes de flux inter-systèmes
 - Rédaction des spécifications techniques et analyse d'impact
 - Conception des contrats d'API REST et des modèles de données
-- Définition du cadre de gouvernance, de validation et de traçabilité des données
-- Élaboration du plan de déploiement
+- Définition du cadre de gouvernance des données publiques, de validation et de traçabilité
+- Élaboration de la feuille de route de déploiement et du plan de mise en œuvre
 
 **Compétences démontrées**
 
-Architecture de système d'information · Cahier des charges · Spécifications fonctionnelles et techniques · Modélisation de données · Gouvernance des données · Institution publique
+Architecture de système d'information · Cahier des charges · Spécifications fonctionnelles et techniques · Modélisation de données · Gouvernance des données publiques · Institution publique · E-gouvernement
 
 ### Architecture CMMS Nemidis
 
@@ -391,16 +387,16 @@ Architecture de système d'information · Cahier des charges · Modélisation de
 
 ---
 
-## 7. Formation et renforcement des capacités
+## 8. Formation et renforcement des capacités
 
-- Formateur Ruby on Rails – Le Wagon
-- Formation et mentorat d'ingénieurs chez Doctolib
-- Encadrement technique chez Nemidis
-- Revue de code et accompagnement d'équipes
+- **Formateur Ruby on Rails – Le Wagon (Paris)** : conception et animation de modules de formation au développement logiciel pour des cohortes internationales, transfert de compétences techniques et encadrement de projets
+- **Formation et mentorat d'ingénieurs – Doctolib** : accompagnement de nouveaux ingénieurs sur un système d'information national critique, transmission des bonnes pratiques de développement et de qualité logicielle
+- **Encadrement technique et renforcement de capacités – Nemidis** : accompagnement des équipes techniques burundaises dans la conception, le développement et la maintenance de solutions de digitalisation des services publics ; transfert de compétences sur les architectures SI et les normes de développement
+- **Revue de code et accompagnement d'équipes** : pratique régulière tout au long des missions, contribuant à l'élévation du niveau technique des équipes et à la standardisation des pratiques de développement
 
 ---
 
-## 8. Certifications et pièces justificatives
+## 9. Certifications et pièces justificatives
 
 - Diplôme d'ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes
 - Contrat avec Le Wagon – Développement Web Full Stack
