@@ -287,11 +287,35 @@ Opérateur d'infrastructures télécoms et réseaux à fibre optique.
 
 ## 5. Audits et évaluations techniques
 
-### Audit 1
+### Audit 1 – Audit de l'architecture de gestion des accès (Abbove)
 
-- **Contexte** : …
-- **Méthodologie** : …
-- **Résultats** : …
+|             |                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------- |
+| **Période** | Mai 2026 - Juin 2026                                                                  |
+| **Client**  | Abbove (plateforme de gestion patrimoniale utilisée par des institutions financières) |
+| **Rôle**    | Ingénieur logiciel senior / Auditeur technique                                        |
+
+Analyse du système de gestion des accès et des droits utilisateurs afin de documenter les mécanismes d'autorisation, identifier les risques opérationnels et proposer des améliorations de gouvernance.
+
+**Travaux réalisés**
+
+- Cartographie complète du modèle de contrôle d'accès de la plateforme
+- Analyse des mécanismes RBAC, ACL, ABAC et des règles métier associées
+- Évaluation des processus de propagation et de révocation des droits utilisateurs
+- Identification des risques liés aux accès hérités et aux autorisations persistantes
+- Documentation de l'architecture de sécurité sous forme de schémas et présentations exécutives
+- Présentation des résultats à des parties prenantes techniques et non techniques
+- Proposition d'un mécanisme automatisé de nettoyage et de gouvernance des droits d'accès
+
+**Résultats**
+
+- Mise en évidence des risques de conservation involontaire des accès
+- Définition d'un plan d'amélioration de la gouvernance des habilitations
+- Production d'une documentation de référence utilisée par les équipes métier et techniques
+
+**Compétences démontrées**
+
+Audit de système d'information · Gouvernance des accès · Architecture logicielle · Analyse des risques · Documentation technique · Présentation exécutive · Sécurité applicative
 
 ### Audit 2
 
