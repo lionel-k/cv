@@ -1,6 +1,6 @@
 Lionel Kubwimana
 
-Expert en Développement de Solutions Logicielles, Architecture des Systèmes d’Information et Transformation Numérique
+Expert en Développement de Solutions Logicielles, Architecture des Systèmes d'Information et Transformation Numérique
 
 Téléphone : +33 …
 Email : …
@@ -12,7 +12,7 @@ Langues : Français, Anglais, Kirundi
 
 1. PROFIL
 
-Ingénieur informatique avec plus de 10 ans d’expérience dans la conception, le développement, l’intégration et la maintenance de plateformes digitales et de systèmes d’information.
+Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le développement, l'intégration et la maintenance de plateformes digitales et de systèmes d'information.
 
 Expérience dans la réalisation de projets de transformation numérique à grande échelle dans les secteurs de la santé, de la finance, de la fiscalité et des services numériques.
 
@@ -26,7 +26,7 @@ Expérience de collaboration avec des institutions publiques burundaises dans le
 
 Formation
 
-- Diplôme d’Ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes
+- Diplôme d'Ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes
 - Formation Développeur Full Stack – Le Wagon
 
 Langues
@@ -73,7 +73,7 @@ Modélisation
 
 Expérience totale
 
-- Plus de 10 ans d’expérience dans les systèmes d’information et plateformes digitales
+- Plus de 10 ans d'expérience dans les systèmes d'information et plateformes digitales
 
 ⸻
 
@@ -87,20 +87,20 @@ Rôle :
 Architecte logiciel / Expert en intégration de systèmes
 
 Description :
-Participation à la modernisation des processus fiscaux de l’Office Burundais des Recettes (OBR).
+Participation à la modernisation des processus fiscaux de l'Office Burundais des Recettes (OBR).
 
 Réalisations :
 
-- Développement d’un module d’intégration entre ASYCUDA/EBMS et POS-OBR
+- Développement d'un module d'intégration entre ASYCUDA/EBMS et POS-OBR
 - Synchronisation automatisée des marchandises importées
-- Conception d’API et services d’intégration
+- Conception d'API et services d'intégration
 - Architecture des flux de données
 - Supervision des développements
 
 Compétences démontrées :
 
 - Institution publique
-- Système d’information national
+- Système d'information national
 - API
 - Architecture
 - Gouvernance des données
@@ -115,7 +115,7 @@ Rôle :
 Ingénieur Logiciel Senior
 
 Description :
-Participation à la conception, au développement et à la maintenance de l’application de prescription utilisée par les professionnels de santé en France.
+Participation à la conception, au développement et à la maintenance de l'application de prescription utilisée par les professionnels de santé en France.
 
 Réalisations :
 
@@ -127,14 +127,14 @@ Réalisations :
 
 Compétences démontrées :
 
-- Système d’information national
+- Système d'information national
 - Architecture logicielle
 - Qualité logicielle
 - Sécurité
 
 ⸻
 
-Projet 3 – Plateforme d’intégration financière Climb
+Projet 3 – Plateforme d'intégration financière Climb
 
 Période : 2023 – 2025
 
@@ -142,7 +142,7 @@ Rôle :
 Ingénieur Logiciel Senior
 
 Description :
-Conception d’une plateforme d’intégration de données financières entre cinq compagnies d’assurance et le système d’information central de Climb.
+Conception d'une plateforme d'intégration de données financières entre cinq compagnies d'assurance et le système d'information central de Climb.
 
 Réalisations :
 
@@ -230,15 +230,15 @@ Résultats
 7. FORMATION ET RENFORCEMENT DES CAPACITES
 
 - Formateur Ruby on Rails – Le Wagon
-- Formation et mentorat d’ingénieurs chez Doctolib
+- Formation et mentorat d'ingénieurs chez Doctolib
 - Encadrement technique chez Nemidis
-- Revue de code et accompagnement d’équipes
+- Revue de code et accompagnement d'équipes
 
 ⸻
 
 8. CERTIFICATIONS ET PIECES JUSTIFICATIVES
 
-- Diplôme d’ingénieur
+- Diplôme d'ingénieur
 - Certificats techniques
-- Attestations d’emploi
+- Attestations d'emploi
 - Références professionnelles
