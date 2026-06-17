@@ -133,11 +133,27 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 ## 4. Expérience professionnelle détaillée
 
-### Nemidis
+### Nemidis Technologies
 
-**CTO / Architecte Logiciel** · _2024 – Présent_
+**Directeur Technique / Architecte Logiciel** · _Octobre 2024 – Présent_
 
-(…)
+Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux institutions publiques et aux entreprises au Burundi.
+
+**Responsabilités principales**
+
+- Définition de la stratégie technique et de l'architecture des plateformes digitales de l'entreprise
+- Conception et supervision de systèmes d'information liés à la fiscalité électronique et à la maintenance des Machines de Facturation Électronique (MFE)
+- Élaboration de cahiers des charges, spécifications fonctionnelles et spécifications techniques
+- Définition des normes de développement, de qualité logicielle et de sécurité
+- Choix des technologies, modèles de données, architectures applicatives et stratégies de déploiement
+- Coordination des développements et revue des livrables techniques
+- Accompagnement des équipes dans la conception, le développement et la maintenance des solutions
+- Collaboration avec les institutions publiques et les parties prenantes dans le cadre des projets de transformation numérique
+- Participation à la planification, au suivi et à la mise en œuvre de projets numériques à l'échelle nationale
+
+**Technologies**
+
+Ruby on Rails · Dart/Flutter · PostgreSQL · React · REST · Docker · Cloud Run · GitHub Actions · Redis · Sidekiq
 
 ### Abbove
 
