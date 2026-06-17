@@ -18,6 +18,7 @@
 variants/**/*.pdf
 !variants/senior-software-engineer/senior-software-engineer.pdf
 !variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf
+!variants/pafen/pafen.pdf
 template/upstream-examples/*.pdf
 
 ### Editor ###
