@@ -286,11 +286,11 @@ _Février 2015 – Septembre 2017 · 2 ans 7 mois_
 
 ### Audit 1 – Audit d'architecture du système NEMIDIS POS
 
-|             |                           |
-| ----------- | ------------------------- |
-| **Période** | 2025                      |
-| **Client**  | Nemidis Technologies      |
-| **Rôle**    | CTO / Architecte logiciel |
+|             |                                           |
+| ----------- | ----------------------------------------- |
+| **Période** | 2025                                      |
+| **Client**  | Nemidis Technologies                      |
+| **Rôle**    | Directeur Technique / Architecte logiciel |
 
 Prise en charge d'une plateforme critique de facturation électronique utilisée dans le cadre des obligations fiscales de l'Office Burundais des Recettes (OBR).
 
