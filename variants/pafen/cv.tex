@@ -20,6 +20,11 @@
 \clubpenalty=10000
 \displaywidowpenalty=10000
 
+% Seuils de réserve d'espace (en lignes de base)
+\newcommand{\pafenNeedspaceEntry}{\Needspace{14\baselineskip}}
+\newcommand{\pafenNeedspaceList}{\Needspace{12\baselineskip}}
+\newcommand{\pafenNeedspaceItem}{\Needspace{3\baselineskip}}
+
 % Date française dans le pied de page (ex. 17 juin 2026)
 \newcommand{\cvtoday}{%
   \number\day\space
@@ -59,9 +64,8 @@
   \par\vspace{0.5mm}%
 }
 
-% Titre d'élément — réserve l'espace pour titre + métadonnées + début de résumé
+% Titre d'élément
 \renewcommand{\cvsubsection}[1]{%
-  \Needspace{6\baselineskip}%
   \subsectionstyle{#1}%
   \phantomsection
   \nopagebreak[4]%
@@ -79,14 +83,14 @@
 
 % Description principale (mise en avant)
 \newenvironment{cvprojectsummary}{%
-  \Needspace{3\baselineskip}%
   \vspace{0.8mm}%
-  \nopagebreak[3]%
+  \nopagebreak[4]%
   \noindent\begingroup
   \fontsize{10.5pt}{1.35em}\selectfont
   \bodyfont\color{text}%
 }{%
   \par\endgroup\cvblockskip
+  \nopagebreak[4]%
 }
 
 % Libellé de sous-bloc (Réalisations, Contributions, Compétences…)
@@ -110,16 +114,26 @@
 
 % Libellé + corps (Compétences démontrées, Résultats)
 \newcommand{\cvdetailblock}[2]{%
+  \pafenNeedspaceList
   \cvdetailslabel{#1}%
   \cvdetailtext{#2}%
 }
 
-% Liste à puces atténuée
+% Liste à puces atténuée — chaque puce exige un minimum d'espace restant
+\makeatletter
+\let\pafencvitem\item
+\makeatother
+\newcommand{\pafencvitemwrap}{%
+  \pafenNeedspaceItem
+  \pafencvitem
+}
+
 \newenvironment{cvdetailitems}{%
   \vspace{-0.6mm}%
   \begingroup
   \cvdetailfont
-  \begin{cvitems}
+  \begin{cvitems}%
+  \let\item\pafencvitemwrap
 }{%
   \end{cvitems}%
   \vspace{-0.4ex}%
@@ -128,8 +142,9 @@
 
 % Libellé + liste (Réalisations, Contributions, Travaux réalisés)
 \newenvironment{cvdetailslist}[1]{%
+  \pafenNeedspaceList
   \cvdetailslabel{#1}%
-  \Needspace{3\baselineskip}%
+  \Needspace{4\baselineskip}%
   \begin{cvdetailitems}
 }{%
   \end{cvdetailitems}%
@@ -138,7 +153,7 @@
 % Liste de missions sans libellé (expérience professionnelle)
 \newenvironment{cvdetailmissions}{%
   \cvblockskip
-  \Needspace{3\baselineskip}%
+  \Needspace{4\baselineskip}%
   \begin{cvdetailitems}
 }{%
   \end{cvdetailitems}%
@@ -167,7 +182,7 @@
 
 \newenvironment{cvgroup}{%
   \cv@groupseparator
-  \Needspace{4\baselineskip}%
+  \pafenNeedspaceEntry
   \par\vspace{0.5mm}%
   \begingroup
   \setlength{\parindent}{0pt}%
