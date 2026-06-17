@@ -57,7 +57,7 @@ Plus de 10 ans d'expérience dans les systèmes d'information et plateformes dig
 
 ## 3. Projets de grande envergure pertinents
 
-### Projet 1 – OBR / MFE / ASYCUDA / EBMS
+### Projet 1 – OBR / MFE / ASYCUDA / EBMS | Nemidis Technologies
 
 |             |                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------ |
@@ -84,7 +84,7 @@ Contribution à la modernisation du système d'information de l'OBR et à la dig
 
 Institution publique · Système d'information national · Digitalisation des services publics · Architecture logicielle · Intégration de systèmes · API REST · Gouvernance des données · Spécifications fonctionnelles et techniques · Coordination de projet · Supervision des développements
 
-### Projet Doctolib – Plateforme nationale d'ordonnances électroniques
+### Projet 2 – Plateforme nationale d'ordonnances électroniques | Doctolib
 
 |             |                           |
 | ----------- | ------------------------- |
@@ -103,14 +103,9 @@ Participation à la conception, au développement et à la maintenance de l'appl
 
 **Compétences démontrées**
 
-- Système d'information national
-- Interopérabilité entre plateformes
-- Intégration API
-- Sécurité des données
-- Architecture logicielle
-- Services publics numériques
+Système d'information national · Interopérabilité entre plateformes · Intégration API · Sécurité des données · Architecture logicielle · Services publics numériques
 
-### Projet Climb – Plateforme d'intégration de données financières
+### Projet 3 – Plateforme d'intégration de données financières | Climb
 
 |             |                           |
 | ----------- | ------------------------- |
@@ -132,20 +127,9 @@ La plateforme collecte, transforme, stocke et synchronise les données financiè
 - Mise en place de contrôles de qualité, de supervision et de suivi des flux de données
 - Participation à l'architecture technique, à la maintenance et à l'évolution de la plateforme
 
-**Technologies**
-
-Ruby on Rails · PostgreSQL · REST · JSON · XML · SFTP · Salesforce · Redis · Sidekiq · Docker
-
 **Compétences démontrées**
 
-- Intégration de systèmes d'information
-- Architecture de données
-- API REST
-- Gouvernance des données
-- Synchronisation multi-systèmes
-- Traitement automatisé de flux
-- Plateformes digitales
-- Conception et maintenance de systèmes d'information
+Intégration de systèmes d'information · Architecture de données · API REST · Gouvernance des données · Synchronisation multi-systèmes · Traitement automatisé de flux · Plateformes digitales · Conception et maintenance de systèmes d'information
 
 ---
 
