@@ -12,6 +12,15 @@
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{array}
+\usepackage[french]{babel}
+
+% Date française dans le pied de page (ex. 17 juin 2026)
+\newcommand{\cvtoday}{%
+  \number\day\space
+  \ifcase\month\or janvier\or février\or mars\or avril\or mai\or juin\or
+  juillet\or août\or septembre\or octobre\or novembre\or décembre\fi\space
+  \number\year
+}
 
 \colorlet{awesome}{awesome-skyblue}
 \setbool{acvSectionColorHighlight}{true}
@@ -159,7 +168,7 @@
 \makecvheader[C]
 
 \makecvfooter
-  {\today}
+  {\cvtoday}
   {Lionel Kubwimana~~~·~~~Dossier de candidature PAFEN / SETIC}
   {\thepage}
 
