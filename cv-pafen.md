@@ -113,7 +113,7 @@ Participation à la conception, au développement et à la maintenance de l'appl
 | **Période** | 2023 – 2025               |
 | **Rôle**    | Ingénieur logiciel senior |
 
-Conception et évolution d'une plateforme d'intégration de données financières reliant cinq compagnies d'assurance (Vie Plus, Generali, Apicil, Swiss Life et Lombard Odier) au système d'information central de Climb.
+Conception et évolution d'une plateforme d'intégration de données financières reliant cinq compagnies d'assurance (Vie Plus, Generali, Apicil, Swiss Life et Lombard) au système d'information central de Climb.
 
 La plateforme collecte, transforme, stocke et synchronise les données financières afin d'alimenter les applications métier, Salesforce et les espaces clients.
 
