@@ -18,7 +18,7 @@ Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le
 
 Expérience dans la réalisation de projets de transformation numérique à grande échelle dans les secteurs de la santé, de la finance, de la fiscalité et des services numériques.
 
-Compétences en architecture logicielle, intégration de systèmes, API REST/GraphQL/SOAP, bases de données, gouvernance des données, audit technique, qualité logicielle, supervision de projets numériques et renforcement des capacités des équipes techniques.
+Compétences en architecture logicielle, intégration de systèmes, API REST, bases de données, gouvernance des données, audit technique, qualité logicielle, supervision de projets numériques et renforcement des capacités des équipes techniques.
 
 Expérience de collaboration avec des institutions publiques burundaises (OBR) dans le cadre de la digitalisation des processus fiscaux via les Machines de Facturation Électronique (MFE).
 
