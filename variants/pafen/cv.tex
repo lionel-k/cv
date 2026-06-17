@@ -17,6 +17,33 @@
 \setbool{acvSectionColorHighlight}{true}
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 
+% Description principale de projet/audit (mise en avant)
+\newenvironment{cvprojectsummary}{%
+  \vspace{1mm}
+  \noindent\begingroup
+  \fontsize{10.5pt}{1.45em}\selectfont
+  \bodyfont\color{text}%
+}{%
+  \par\endgroup\vspace{2.5mm}%
+}
+
+% Libellé pour les listes de détail (secondaires)
+\newcommand{\cvdetailslabel}[1]{%
+  \vspace{0.5mm}%
+  \noindent{\fontsize{8pt}{1em}\bodyfont\scshape\color{awesome}#1}\\[1.5mm]%
+}
+
+% Liste de détail atténuée
+\newenvironment{cvdetailitems}{%
+  \begingroup
+  \fontsize{8.5pt}{1.25em}\selectfont
+  \bodyfontlight\color{graytext}%
+  \begin{cvitems}
+}{%
+  \end{cvitems}%
+  \endgroup
+}
+
 %-------------------------------------------------------------------------------
 % INFORMATIONS PERSONNELLES
 %-------------------------------------------------------------------------------
