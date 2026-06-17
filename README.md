@@ -15,7 +15,7 @@ Personal CV built with [Awesome-CV](https://github.com/posquit0/Awesome-CV) (cla
 |----------|-----------|
 | Dossier complet (français) | [pafen.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/pafen/pafen.pdf) |
 
-PDFs on `main` are regenerated automatically by CI on each push.
+PDFs on `main` are regenerated automatically by CI on each push. jsDelivr may cache files for up to 7 days; CI purges the cache after each update. For an immediate link to a specific revision, use the commit SHA: `https://cdn.jsdelivr.net/gh/lionel-k/cv@<sha>/variants/pafen/pafen.pdf`.
 
 ## Build
 

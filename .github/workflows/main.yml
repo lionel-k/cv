@@ -37,3 +37,14 @@ jobs:
         git add -f variants/pafen/pafen.pdf
         git diff --staged --quiet || git commit -m "chore: regenerate CV PDFs"
         git push
+
+    - name: Purge jsDelivr cache
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      run: |
+        for path in \
+          variants/senior-software-engineer/senior-software-engineer.pdf \
+          variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf \
+          variants/pafen/pafen.pdf; do
+          curl -fsS "https://purge.jsdelivr.net/gh/lionel-k/cv@main/${path}"
+          echo
+        done
