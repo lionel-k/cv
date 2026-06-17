@@ -133,149 +133,128 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 ## 4. Expérience professionnelle détaillée
 
-Nemidis Technologies
+### Nemidis Technologies
 
-Directeur Technique / Architecte Logiciel
-Bujumbura, Burundi – Télétravail / Missions terrain
-Octobre 2024 – Présent
+**Directeur Technique / Architecte Logiciel** · _Octobre 2024 – Présent_
+_Bujumbura, Burundi – Télétravail / Missions terrain_
 
-Entreprise spécialisée dans les solutions de digitalisation et les systèmes d’information destinés aux institutions publiques et aux entreprises au Burundi.
+Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux institutions publiques et aux entreprises au Burundi.
 
-- Définition de la stratégie technique et de l’architecture des plateformes digitales de l’entreprise.
-- Conception et supervision de systèmes d’information liés à la fiscalité électronique et à la maintenance des Machines de Facturation Électronique (MFE).
-- Élaboration de cahiers des charges, spécifications fonctionnelles et spécifications techniques.
-- Définition des normes de développement, de qualité logicielle et de sécurité.
-- Choix des technologies, modèles de données, architectures applicatives et stratégies de déploiement.
-- Coordination des développements et revue des livrables techniques.
-- Accompagnement des équipes dans la conception, le développement et la maintenance des solutions.
-- Collaboration avec les institutions publiques et les parties prenantes dans le cadre des projets de transformation numérique.
-- Participation à la planification, au suivi et à la mise en œuvre de projets numériques à l’échelle nationale.
+- Définition de la stratégie technique et de l'architecture des plateformes digitales de l'entreprise
+- Conception et supervision de systèmes d'information liés à la fiscalité électronique et à la maintenance des Machines de Facturation Électronique (MFE)
+- Élaboration de cahiers des charges, spécifications fonctionnelles et spécifications techniques
+- Définition des normes de développement, de qualité logicielle et de sécurité
+- Choix des technologies, modèles de données, architectures applicatives et stratégies de déploiement
+- Coordination des développements et revue des livrables techniques
+- Accompagnement des équipes dans la conception, le développement et la maintenance des solutions
+- Collaboration avec les institutions publiques et les parties prenantes dans le cadre des projets de transformation numérique
+- Participation à la planification, au suivi et à la mise en œuvre de projets numériques à l'échelle nationale
 
-Technologies : Ruby on Rails · Flutter · PostgreSQL · React · REST · Docker · Cloud Run · GitHub Actions · Redis · Sidekiq
+**Technologies**
 
-⸻
+Ruby on Rails · Flutter · PostgreSQL · React · REST · Docker · Cloud Run · GitHub Actions · Redis · Sidekiq
 
-Abbove (PaxFamilia)
+### Abbove (PaxFamilia)
 
-Ingénieur Logiciel Senior
-Bruxelles, Belgique – Télétravail
-Juillet 2025 – Présent
+**Ingénieur Logiciel Senior** · _Juillet 2025 – Présent_
+_Bruxelles, Belgique – Télétravail_
 
 Plateforme de gestion patrimoniale utilisée par des institutions financières européennes.
 
-- Conception et évolution de composants du système d’information patrimonial pour des clients institutionnels, notamment BNP Paribas.
-- Définition et mise en œuvre de modèles de données complexes pour la gestion des actifs financiers et des structures de propriété.
-- Participation à l’architecture fonctionnelle et technique de la plateforme.
-- Intégration de services financiers externes et maintenance des flux de synchronisation de données.
-- Contribution à l’amélioration continue de la qualité, de la maintenabilité et de la performance du système d’information.
+- Conception et évolution de composants du système d'information patrimonial pour des clients institutionnels, notamment BNP Paribas
+- Définition et mise en œuvre de modèles de données complexes pour la gestion des actifs financiers et des structures de propriété
+- Participation à l'architecture fonctionnelle et technique de la plateforme
+- Intégration de services financiers externes et maintenance des flux de synchronisation de données
+- Contribution à l'amélioration continue de la qualité, de la maintenabilité et de la performance du système d'information
 
-⸻
+### Climb
 
-Climb
-
-Ingénieur Logiciel Senior
-Paris, France – Hybride
-Janvier 2023 – Juin 2025
+**Ingénieur Logiciel Senior** · _Janvier 2023 – Juin 2025_
+_Paris, France – Hybride_
 
 Plateforme numérique de conseil patrimonial et fiscal.
 
-- Conception et mise en œuvre d’une plateforme d’intégration de données financières reliant plusieurs compagnies d’assurance au système d’information central.
-- Définition et maintenance des flux d’échange de données entre partenaires externes, Salesforce et applications métier.
-- Conception d’API et de mécanismes de synchronisation de données.
-- Participation aux choix d’architecture, aux déploiements et à l’amélioration des performances du système d’information.
-- Contribution à des projets de digitalisation des services de conseil fiscal et patrimonial.
+- Conception et mise en œuvre d'une plateforme d'intégration de données financières reliant plusieurs compagnies d'assurance au système d'information central
+- Définition et maintenance des flux d'échange de données entre partenaires externes, Salesforce et applications métier
+- Conception d'API et de mécanismes de synchronisation de données
+- Participation aux choix d'architecture, aux déploiements et à l'amélioration des performances du système d'information
+- Contribution à des projets de digitalisation des services de conseil fiscal et patrimonial
 
-⸻
+### Doctolib
 
-Doctolib
-
-Ingénieur Logiciel Ruby on Rails et React
-Paris, France – Hybride
-Juin 2020 – Décembre 2022
+**Ingénieur Logiciel Ruby on Rails et React** · _Juin 2020 – Décembre 2022_
+_Paris, France – Hybride_
 
 Plateforme nationale de santé numérique.
 
-- Participation à la conception, au développement et à la maintenance de l’application d’ordonnances électroniques utilisée par les professionnels de santé en France.
-- Contribution à l’intégration des services nationaux d’e-Prescription et des plateformes publiques de santé.
-- Participation à la définition des spécifications fonctionnelles et techniques avec les équipes produit.
-- Contribution à la qualité, à la sécurité et à la fiabilité d’un système d’information critique à grande échelle.
-- Formation et accompagnement de nouveaux ingénieurs.
+- Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques utilisée par les professionnels de santé en France
+- Contribution à l'intégration des services nationaux d'e-Prescription et des plateformes publiques de santé
+- Participation à la définition des spécifications fonctionnelles et techniques avec les équipes produit
+- Contribution à la qualité, à la sécurité et à la fiabilité d'un système d'information critique à grande échelle
+- Formation et accompagnement de nouveaux ingénieurs
 
-Lingu.Africa
+### Lingu.Africa
 
-Fondateur / Architecte Applicatif
-Télétravail
-Mars 2021 – Présent
+**Fondateur / Architecte Applicatif** · _Mars 2021 – Présent_
+_Télétravail_
 
-Plateforme numérique multilingue dédiée à l’apprentissage des langues africaines et à la diffusion de contenus éducatifs.
+Plateforme numérique multilingue dédiée à l'apprentissage des langues africaines et à la diffusion de contenus éducatifs.
 
-- Conception de l’architecture globale de la plateforme et du modèle de données.
-- Développement d’une plateforme de commerce électronique pour la diffusion de contenus éducatifs dans plus de 180 langues et variantes linguistiques.
-- Mise en place de workflows automatisés de publication, de référencement et de gestion de contenu.
-- Définition des stratégies de déploiement, de supervision et d’évolution de la plateforme.
-- Pilotage des choix techniques, du développement et de l’exploitation de la solution.
+- Conception de l'architecture globale de la plateforme et du modèle de données
+- Développement d'une plateforme de commerce électronique pour la diffusion de contenus éducatifs dans plus de 180 langues et variantes linguistiques
+- Mise en place de workflows automatisés de publication, de référencement et de gestion de contenu
+- Définition des stratégies de déploiement, de supervision et d'évolution de la plateforme
+- Pilotage des choix techniques, du développement et de l'exploitation de la solution
 
-⸻
+### Workelo
 
-Workelo
+**Ingénieur Logiciel Ruby on Rails** · _Juillet 2019 – Juin 2020_
+_Paris, France – Sur site_
 
-Ingénieur Logiciel Ruby on Rails
-Paris, France – Sur site
-Juillet 2019 – Juin 2020
+Plateforme numérique d'onboarding et de gestion des parcours collaborateurs.
 
-Plateforme numérique d’onboarding et de gestion des parcours collaborateurs.
+- Participation à l'évolution du système d'information RH et à l'amélioration des workflows métiers
+- Conception et amélioration de composants applicatifs critiques pour la communication interne
+- Mise en place de pipelines d'intégration et de déploiement continus
+- Renforcement de la qualité logicielle par l'introduction de tests automatisés et d'outils d'analyse de code
+- Accompagnement de l'équipe sur les bonnes pratiques de développement
 
-- Participation à l’évolution du système d’information RH et à l’amélioration des workflows métiers.
-- Conception et amélioration de composants applicatifs critiques pour la communication interne.
-- Mise en place de pipelines d’intégration et de déploiement continus.
-- Renforcement de la qualité logicielle par l’introduction de tests automatisés et d’outils d’analyse de code.
-- Accompagnement de l’équipe sur les bonnes pratiques de développement.
+### Le Wagon
 
-⸻
-
-Le Wagon
-
-Formateur Ruby on Rails
-Paris, France – Sur site
-Janvier 2019 – Juin 2019
+**Formateur Ruby on Rails** · _Janvier 2019 – Juin 2019_
+_Paris, France – Sur site_
 
 Programme international de formation au développement logiciel.
 
-- Formation d’étudiants aux fondamentaux du développement logiciel, de la programmation orientée objet et des applications web.
-- Accompagnement des apprenants dans la conception, le développement et le déploiement de projets numériques.
-- Animation d’ateliers pratiques et transfert de compétences techniques.
-- Encadrement de projets et revue des réalisations des étudiants.
+- Formation d'étudiants aux fondamentaux du développement logiciel, de la programmation orientée objet et des applications web
+- Accompagnement des apprenants dans la conception, le développement et le déploiement de projets numériques
+- Animation d'ateliers pratiques et transfert de compétences techniques
+- Encadrement de projets et revue des réalisations des étudiants
 
-⸻
+### Joinly
 
-Joinly
-
-Ingénieur Logiciel Ruby on Rails
-Paris, France – Sur site
-Janvier 2018 – Janvier 2019
+**Ingénieur Logiciel Ruby on Rails** · _Janvier 2018 – Janvier 2019_
+_Paris, France – Sur site_
 
 Plateforme de gestion administrative et financière pour les organisations sportives.
 
-- Participation au développement du système d’information de gestion des paiements des arbitres.
-- Intégration de services de paiement externes via API.
-- Contribution à l’architecture applicative et à l’amélioration continue de la plateforme.
-- Mise en place de processus d’intégration continue et de contrôle qualité.
+- Participation au développement du système d'information de gestion des paiements des arbitres
+- Intégration de services de paiement externes via API
+- Contribution à l'architecture applicative et à l'amélioration continue de la plateforme
+- Mise en place de processus d'intégration continue et de contrôle qualité
 
-⸻
+### Covage
 
-Covage
+**Ingénieur Logiciel et Réseau** · _Février 2015 – Septembre 2017_
+_Paris, France – Sur site_
 
-Ingénieur Logiciel et Réseau
-Paris, France – Sur site
-Février 2015 – Septembre 2017
+Opérateur d'infrastructures télécoms et réseaux à fibre optique.
 
-Opérateur d’infrastructures télécoms et réseaux à fibre optique.
-
-- Participation à l’automatisation des déploiements et à la supervision de services réseau.
-- Conception d’outils d’audit et de contrôle des infrastructures techniques.
-- Contribution à l’évolution des systèmes de gestion et d’exploitation des réseaux.
-- Coordination de développements techniques et accompagnement de stagiaires.
-- Participation à des projets d’infrastructure à grande échelle dans le secteur des télécommunications.
+- Participation à l'automatisation des déploiements et à la supervision de services réseau
+- Conception d'outils d'audit et de contrôle des infrastructures techniques
+- Contribution à l'évolution des systèmes de gestion et d'exploitation des réseaux
+- Coordination de développements techniques et accompagnement de stagiaires
+- Participation à des projets d'infrastructure à grande échelle dans le secteur des télécommunications
 
 ---
 
