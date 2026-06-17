@@ -20,7 +20,10 @@
 \renewcommand{\acvSectionTopSkip}{1.5mm}
 \renewcommand{\acvSectionContentTopSkip}{1mm}
 
-% Espacement réduit pour paragraphes et sous-sections
+% Espacement uniforme entre blocs d'un même élément (projet, audit, expérience…)
+\newcommand{\cvblockskip}{\par\vspace{1mm}}
+
+% Paragraphes hors blocs structurés (profil, notes)
 \renewenvironment{cvparagraph}{%
   \vspace{0.5mm}%
   \paragraphstyle
@@ -28,54 +31,80 @@
   \par\vspace{0.5mm}%
 }
 
+% Titre d'élément (Projet 1, Nemidis, Architecture…)
 \renewcommand{\cvsubsection}[1]{%
-  \vspace{0.8mm}%
   \subsectionstyle{#1}%
   \phantomsection
 }
 
-% Description principale de projet/audit (mise en avant)
+% Métadonnées : période, rôle, client, lieu
+\newenvironment{cvmetadata}{%
+  \vspace{0.8mm}%
+  \paragraphstyle
+}{%
+  \par\cvblockskip
+}
+
+% Description principale (mise en avant)
 \newenvironment{cvprojectsummary}{%
-  \vspace{0.5mm}%
+  \vspace{0.8mm}%
   \noindent\begingroup
   \fontsize{10.5pt}{1.35em}\selectfont
   \bodyfont\color{text}%
 }{%
-  \par\endgroup\vspace{1mm}%
+  \par\endgroup\cvblockskip
 }
 
-% Libellé pour les listes de détail (secondaires)
+% Libellé de sous-bloc (Réalisations, Contributions, Compétences…)
 \newcommand{\cvdetailslabel}[1]{%
-  \vspace{0.3mm}%
-  \noindent{\fontsize{8pt}{1em}\bodyfont\scshape\color{awesome}#1}\\[0.8mm]%
+  \cvblockskip
+  \noindent{\fontsize{8pt}{1em}\bodyfont\scshape\color{awesome}#1}\par
 }
 
-% Corps atténué sous un libellé (compétences, résultats)
+% Corps atténué sous un libellé
 \newcommand{\cvdetailtext}[1]{%
+  \vspace{0.2mm}%
   \begingroup
   \fontsize{8.5pt}{1.2em}\selectfont
   \bodyfontlight\color{graytext}%
   #1%
   \endgroup
-  \par\vspace{0.3mm}%
+  \par
 }
 
-% Bloc libellé + corps (même style que Réalisations / Contributions)
+% Libellé + corps (Compétences démontrées, Résultats)
 \newcommand{\cvdetailblock}[2]{%
   \cvdetailslabel{#1}%
   \cvdetailtext{#2}%
 }
 
-% Liste de détail atténuée
+% Liste à puces atténuée
 \newenvironment{cvdetailitems}{%
+  \vspace{-0.6mm}%
   \begingroup
   \fontsize{8.5pt}{1.2em}\selectfont
   \bodyfontlight\color{graytext}%
   \begin{cvitems}
 }{%
   \end{cvitems}%
-  \vspace{-0.8ex}%
+  \vspace{-0.4ex}%
   \endgroup
+}
+
+% Libellé + liste (Réalisations, Contributions, Travaux réalisés)
+\newenvironment{cvdetailslist}[1]{%
+  \cvdetailslabel{#1}%
+  \begin{cvdetailitems}
+}{%
+  \end{cvdetailitems}%
+}
+
+% Liste de missions sans libellé (expérience professionnelle)
+\newenvironment{cvdetailmissions}{%
+  \cvblockskip
+  \begin{cvdetailitems}
+}{%
+  \end{cvdetailitems}%
 }
 
 % Bloc visuel (projet, expérience, audit, architecture)
