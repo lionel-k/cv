@@ -1,6 +1,6 @@
 # Lionel Kubwimana
 
-**Expert en Développement de Solutions Logicielles, Architecture des Systèmes d'Information et Transformation Numérique**
+**Expert-Consultant International – Développement de Solutions Logicielles et Transformation Numérique**
 
 |                  |                              |
 | ---------------- | ---------------------------- |
@@ -43,7 +43,7 @@ Ruby on Rails · React · Next.js · Node.js · TypeScript · Docker · GitHub A
 
 ### Bases de données
 
-PostgreSQL · MySQL · SQLite · Redis
+PostgreSQL · MySQL · SQLite · Redis (NoSQL)
 
 ### Architecture et conception
 
