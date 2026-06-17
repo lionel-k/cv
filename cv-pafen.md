@@ -1,16 +1,18 @@
-Lionel Kubwimana
+# Lionel Kubwimana
 
-Expert en Développement de Solutions Logicielles, Architecture des Systèmes d'Information et Transformation Numérique
+**Expert en Développement de Solutions Logicielles, Architecture des Systèmes d'Information et Transformation Numérique**
 
-Téléphone : +33 …
-Email : …
-LinkedIn : …
-Nationalité : Burundaise & Française
-Langues : Français, Anglais, Kirundi
+|                 |                            |
+| --------------- | -------------------------- |
+| **Téléphone**   | +33 …                      |
+| **Email**       | …                          |
+| **LinkedIn**    | …                          |
+| **Nationalité** | Burundaise & Française     |
+| **Langues**     | Français, Anglais, Kirundi |
 
-⸻
+---
 
-1. PROFIL
+## 1. Profil
 
 Ingénieur informatique avec plus de 10 ans d'expérience dans la conception, le développement, l'intégration et la maintenance de plateformes digitales et de systèmes d'information.
 
@@ -18,78 +20,55 @@ Expérience dans la réalisation de projets de transformation numérique à gran
 
 Compétences en architecture logicielle, intégration de systèmes, API REST/GraphQL/SOAP, bases de données, gouvernance des données, audit technique, qualité logicielle, supervision de projets numériques et renforcement des capacités des équipes techniques.
 
-Expérience de collaboration avec des institutions publiques burundaises dans le cadre de la digitalisation des processus fiscaux via les Machines de Facturation Électronique (MFE).
+Expérience de collaboration avec des institutions publiques burundaises (OBR) dans le cadre de la digitalisation des processus fiscaux via les Machines de Facturation Électronique (MFE).
 
-⸻
+---
 
-2. CORRESPONDANCE AVEC LES EXIGENCES DES TDR
+## 2. Correspondance avec les exigences des TDR
 
-Formation
+### Formation
 
-- Diplôme d'Ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes
-- Formation Développeur Full Stack – Le Wagon
+- Diplôme d'Ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes (France)
+- Formation Développeur Full Stack – Le Wagon (France)
 
-Langues
+### Langues
 
-- Français : Courant
-- Anglais : Courant
-- Kirundi : Langue maternelle
+- **Français** : Courant
+- **Anglais** : Courant
+- **Kirundi** : Langue maternelle
 
-Technologies de développement
+### Technologies de développement
 
-- Ruby on Rails
-- React
-- Next.js
-- Node.js
-- TypeScript
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD
+Ruby on Rails · React · Next.js · Node.js · TypeScript · Docker · GitHub Actions · CI/CD
 
-Bases de données
+### Bases de données
 
-- PostgreSQL
-- MySQL
-- SQL Server
-- MariaDB
-- SQLite
-- Redis
-- NoSQL
+PostgreSQL · MySQL · MariaDB · SQLite · Redis
 
-Intégration de systèmes
+### Intégration de systèmes
 
-- REST
-- GraphQL
-- SOAP
-- JSON
-- SFTP
-- Microservices
+REST · JSON · SFTP · Microservices
 
-Modélisation
+### Expérience totale
 
-- UML
-- MERISE
+Plus de 10 ans d'expérience dans les systèmes d'information et plateformes digitales.
 
-Expérience totale
+---
 
-- Plus de 10 ans d'expérience dans les systèmes d'information et plateformes digitales
+## 3. Projets de grande envergure pertinents
 
-⸻
+### Projet 1 – OBR / MFE / ASYCUDA / EBMS
 
-3. PROJETS DE GRANDE ENVERGURE PERTINENTS
+|             |                                                         |
+| ----------- | ------------------------------------------------------- |
+| **Période** | Novembre 2025 – Juin 2026                               |
+| **Rôle**    | Architecte logiciel / Expert en intégration de systèmes |
 
-Projet 1 – OBR / MFE / ASYCUDA / EBMS
+**Description**
 
-Période : Octobre 2024 – Présent
-
-Rôle :
-Architecte logiciel / Expert en intégration de systèmes
-
-Description :
 Participation à la modernisation des processus fiscaux de l'Office Burundais des Recettes (OBR).
 
-Réalisations :
+**Réalisations**
 
 - Développement d'un module d'intégration entre ASYCUDA/EBMS et POS-OBR
 - Synchronisation automatisée des marchandises importées
@@ -97,27 +76,22 @@ Réalisations :
 - Architecture des flux de données
 - Supervision des développements
 
-Compétences démontrées :
+**Compétences démontrées**
 
-- Institution publique
-- Système d'information national
-- API
-- Architecture
-- Gouvernance des données
+Institution publique · Système d'information national · API · Architecture · Gouvernance des données
 
-⸻
+### Projet 2 – Doctolib Prescription
 
-Projet 2 – Doctolib Prescription
+|             |                           |
+| ----------- | ------------------------- |
+| **Période** | Juin 2020 – Décembre 2022 |
+| **Rôle**    | Ingénieur Logiciel Senior |
 
-Période : Juin 2020 – Décembre 2022
+**Description**
 
-Rôle :
-Ingénieur Logiciel Senior
-
-Description :
 Participation à la conception, au développement et à la maintenance de l'application de prescription utilisée par les professionnels de santé en France.
 
-Réalisations :
+**Réalisations**
 
 - Développement de fonctionnalités critiques
 - Architecture applicative
@@ -125,118 +99,106 @@ Réalisations :
 - Déploiements continus
 - Support de production
 
-Compétences démontrées :
+**Compétences démontrées**
 
-- Système d'information national
-- Architecture logicielle
-- Qualité logicielle
-- Sécurité
+Système d'information national · Architecture logicielle · Qualité logicielle · Sécurité
 
-⸻
+### Projet 3 – Plateforme d'intégration financière Climb
 
-Projet 3 – Plateforme d'intégration financière Climb
+|             |                           |
+| ----------- | ------------------------- |
+| **Période** | 2023 – 2025               |
+| **Rôle**    | Ingénieur Logiciel Senior |
 
-Période : 2023 – 2025
+**Description**
 
-Rôle :
-Ingénieur Logiciel Senior
-
-Description :
 Conception d'une plateforme d'intégration de données financières entre cinq compagnies d'assurance et le système d'information central de Climb.
 
-Réalisations :
+**Réalisations**
 
 - Collecte automatisée de données via API et SFTP
 - Normalisation des flux
 - Intégration dans le SI interne
 - Mise à disposition des données aux utilisateurs
 
-Compétences démontrées :
+**Compétences démontrées**
 
-- Intégration de systèmes
-- Architecture de données
-- API
-- SFTP
-- Gouvernance des données
+Intégration de systèmes · Architecture de données · API · SFTP · Gouvernance des données
 
-⸻
+---
 
-4. EXPERIENCE PROFESSIONNELLE DETAILLEE
+## 4. Expérience professionnelle détaillée
 
-Nemidis
+### Nemidis
 
-CTO / Architecte Logiciel
-2024 – Présent
+**CTO / Architecte Logiciel** · _2024 – Présent_
 
 (…)
 
-Abbove
+### Ababove
 
-Senior Software Engineer
-2025 – Présent
-
-(…)
-
-Climb
-
-Senior Software Engineer
-2023 – 2025
+**Senior Software Engineer** · _2025 – Présent_
 
 (…)
 
-Doctolib
+### Climb
 
-Software Engineer
-2020 – 2022
+**Senior Software Engineer** · _2023 – 2025_
+
+(…)
+
+### Doctolib
+
+**Software Engineer** · _2020 – 2022_
 
 (…)
 
 (…)
 
-⸻
+---
 
-5. AUDITS ET EVALUATIONS TECHNIQUES
+## 5. Audits et évaluations techniques
 
-Audit 1
+### Audit 1
 
-Contexte
-Méthodologie
-Résultats
+- **Contexte** : …
+- **Méthodologie** : …
+- **Résultats** : …
 
-Audit 2
+### Audit 2
 
-Contexte
-Méthodologie
-Résultats
+- **Contexte** : …
+- **Méthodologie** : …
+- **Résultats** : …
 
-⸻
+---
 
-6. CAHIERS DES CHARGES ET ARCHITECTURES PRODUITS
+## 6. Cahiers des charges et architectures produits
 
-Architecture MFE / OBR
+### Architecture MFE / OBR
 
-Description
-Rôle
-Résultats
+- **Description** : …
+- **Rôle** : …
+- **Résultats** : …
 
-Architecture CMMS Nemidis
+### Architecture CMMS Nemidis
 
-Description
-Rôle
-Résultats
+- **Description** : …
+- **Rôle** : …
+- **Résultats** : …
 
-⸻
+---
 
-7. FORMATION ET RENFORCEMENT DES CAPACITES
+## 7. Formation et renforcement des capacités
 
 - Formateur Ruby on Rails – Le Wagon
 - Formation et mentorat d'ingénieurs chez Doctolib
 - Encadrement technique chez Nemidis
 - Revue de code et accompagnement d'équipes
 
-⸻
+---
 
-8. CERTIFICATIONS ET PIECES JUSTIFICATIVES
+## 8. Certifications et pièces justificatives
 
 - Diplôme d'ingénieur
 - Certificats techniques
