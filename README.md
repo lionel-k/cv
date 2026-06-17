@@ -6,16 +6,16 @@ Personal CV built with [Awesome-CV](https://github.com/posquit0/Awesome-CV) (cla
 
 | Langue | Consulter |
 |--------|-----------|
-| English | [senior-software-engineer.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/senior-software-engineer/senior-software-engineer.pdf) |
-| Français | [senior-software-engineer-fr.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf) |
+| English | [senior-software-engineer.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@sse-en-latest/variants/senior-software-engineer/senior-software-engineer.pdf) |
+| Français | [senior-software-engineer-fr.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@sse-fr-latest/variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf) |
 
 ## Dossier de candidature — PAFEN / SETIC (Burundi)
 
 | Document | Consulter |
 |----------|-----------|
-| Dossier complet (français) | [pafen.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@main/variants/pafen/pafen.pdf) |
+| Dossier complet (français) | [pafen.pdf](https://cdn.jsdelivr.net/gh/lionel-k/cv@pafen-latest/variants/pafen/pafen.pdf) |
 
-PDFs on `main` are regenerated automatically by CI on each push. jsDelivr may cache files for up to 7 days; CI purges the cache after each update. For an immediate link to a specific revision, use the commit SHA: `https://cdn.jsdelivr.net/gh/lionel-k/cv@<sha>/variants/pafen/pafen.pdf`.
+PDFs on `main` are regenerated automatically by CI on each push. Les liens ci-dessus passent par jsDelivr (`Content-Type: application/pdf`, affichage dans le navigateur) et pointent vers des **tags Git** déplacés à chaque régénération — URL stable, sans le cache bloqué de `@main`.
 
 ## Build
 

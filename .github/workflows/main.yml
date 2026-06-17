@@ -38,13 +38,24 @@ jobs:
         git diff --staged --quiet || git commit -m "chore: regenerate CV PDFs"
         git push
 
-    - name: Purge jsDelivr cache
-      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-      run: |
+        # Tags déplacés → jsDelivr sert application/pdf (affichage navigateur), sans cache @main
+        git tag -f sse-en-latest
+        git tag -f sse-fr-latest
+        git tag -f pafen-latest
+        git push -f origin sse-en-latest sse-fr-latest pafen-latest
+
         for path in \
           variants/senior-software-engineer/senior-software-engineer.pdf \
           variants/senior-software-engineer-fr/senior-software-engineer-fr.pdf \
           variants/pafen/pafen.pdf; do
-          curl -fsS "https://purge.jsdelivr.net/gh/lionel-k/cv@main/${path}"
-          echo
+          tag=""
+          case "$path" in
+            *senior-software-engineer/senior-software-engineer.pdf) tag="sse-en-latest" ;;
+            *senior-software-engineer-fr/*) tag="sse-fr-latest" ;;
+            *pafen/*) tag="pafen-latest" ;;
+          esac
+          curl -fsS "https://purge.jsdelivr.net/gh/lionel-k/cv@${tag}/${path}" || true
         done
+
+        SHA=$(git rev-parse HEAD)
+        echo "PAFEN: https://cdn.jsdelivr.net/gh/lionel-k/cv@pafen-latest/variants/pafen/pafen.pdf (@${SHA})" >> "$GITHUB_STEP_SUMMARY"
