@@ -44,6 +44,37 @@
   \endgroup
 }
 
+% Bloc visuel (projet, expérience, audit, architecture)
+\makeatletter
+\newif\ifcv@firstgroup
+\cv@firstgrouptrue
+
+\newcommand{\cvgroupreset}{%
+  \global\cv@firstgrouptrue
+}
+
+\newcommand{\cv@groupseparator}{%
+  \ifcv@firstgroup
+    \global\cv@firstgroupfalse
+  \else
+    \par\vspace{5mm}%
+    \noindent{\color{awesome!60}\hrule height 0.8pt width \textwidth}%
+    \par\vspace{6mm}%
+  \fi
+}
+
+\newenvironment{cvgroup}{%
+  \cv@groupseparator
+  \par\vspace{2mm}%
+  \begingroup
+  \setlength{\parindent}{0pt}%
+  \addtolength{\leftskip}{8pt}%
+}{%
+  \par\endgroup
+  \vspace{4mm}%
+}
+\makeatother
+
 %-------------------------------------------------------------------------------
 % INFORMATIONS PERSONNELLES
 %-------------------------------------------------------------------------------
