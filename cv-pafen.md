@@ -45,9 +45,13 @@ Ruby on Rails · React · Next.js · Node.js · TypeScript · Docker · GitHub A
 
 PostgreSQL · MySQL · SQLite · Redis
 
+### Architecture et conception
+
+Modélisation de données · Architecture applicative · Architecture SI
+
 ### Intégration de systèmes
 
-REST · JSON · SFTP · Microservices
+REST · JSON · SFTP · Webhooks · Microservices
 
 ### Expérience totale
 
