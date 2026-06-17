@@ -65,24 +65,22 @@ Plus de 10 ans d'expérience dans les systèmes d'information et plateformes dig
 | **Rôle**    | Architecte logiciel / Expert en intégration de systèmes                                    |
 | **Client**  | Office Burundais des Recettes (OBR) – Institution publique, système d'information national |
 
-Conception et coordination de l'intégration entre le système douanier ASYCUDA, la plateforme fiscale EBMS et l'application POS-OBR, afin d'assurer la traçabilité des marchandises importées depuis le dédouanement jusqu'à la facturation électronique.
+Mise en œuvre et coordination de l'intégration entre ASYCUDA, EBMS et POS-OBR pour assurer la traçabilité des marchandises importées depuis le dédouanement jusqu'à la facturation électronique au sein du système d'information de l'OBR.
 
 Contribution à la modernisation du système d'information de l'OBR et à la digitalisation des processus fiscaux.
 
 **Réalisations**
 
-- Conception d'une solution d'intégration entre plusieurs systèmes d'information de l'OBR
-- Conception du module de gestion des marchandises importées : récupération du stock déclaré en douane, validation par le contribuable et synchronisation avec le stock local du POS
-- Élaboration de l'architecture des flux de données entre ASYCUDA, EBMS et POS-OBR
-- Rédaction des spécifications fonctionnelles et techniques : analyse d'impact, modélisation des données, diagrammes de flux et plan d'implémentation
-- Conception des services d'intégration API REST avec le système d'information de l'OBR
-- Définition des règles de gouvernance des données, de contrôle qualité et de traçabilité des opérations
-- Mise en œuvre du mécanisme de traçabilité des marchandises importées basé sur les références douanières DMC
-- Participation à la planification du projet, à l'estimation des charges, à la préparation du déploiement et à la supervision des développements
+- Conception et développement du module de gestion des marchandises importées : récupération du stock déclaré en douane, validation par le contribuable et synchronisation avec le stock local du POS
+- Mise en œuvre du mécanisme de traçabilité basé sur les références douanières DMC
+- Intégration opérationnelle entre ASYCUDA, EBMS et POS-OBR dans le système d'information de l'OBR
+- Supervision des développements et suivi de la mise en production
+- Estimation des charges, planification du projet et préparation du déploiement
+- Coordination des équipes techniques et des parties prenantes institutionnelles
 
 **Compétences démontrées**
 
-Institution publique · Système d'information national · Digitalisation des services publics · Architecture logicielle · Intégration de systèmes · API REST · Gouvernance des données · Spécifications fonctionnelles et techniques · Coordination de projet · Supervision des développements
+Institution publique · Système d'information national · Digitalisation des services publics · Intégration de systèmes · Supervision des développements · Coordination de projet · Traçabilité des données
 
 ### Projet 2 – Plateforme nationale d'ordonnances électroniques | Doctolib
 
@@ -185,20 +183,20 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 **Client** : Office Burundais des Recettes (OBR)
 
-Conception de l'architecture globale d'intégration entre le système douanier ASYCUDA, la plateforme fiscale EBMS et la solution POS-OBR afin d'assurer la traçabilité des marchandises importées jusqu'à la facturation électronique.
+Production des livrables d'architecture et de spécification pour l'intégration du système douanier ASYCUDA, de la plateforme fiscale EBMS et de la solution POS-OBR.
 
 **Contributions principales**
 
-- Rédaction du cahier des charges fonctionnel et technique
-- Définition des flux d'intégration entre ASYCUDA, EBMS et POS-OBR
-- Conception des API REST et des modèles de données
-- Définition des règles de gouvernance, de validation et de traçabilité des données
-- Production des spécifications techniques, diagrammes de flux et plan de déploiement
-- Coordination des développements et suivi de la mise en œuvre
+- Rédaction du cahier des charges fonctionnel et technique de l'intégration ASYCUDA–EBMS–POS-OBR
+- Modélisation des données et production des diagrammes de flux inter-systèmes
+- Rédaction des spécifications techniques et analyse d'impact
+- Conception des contrats d'API REST et des modèles de données
+- Définition du cadre de gouvernance, de validation et de traçabilité des données
+- Élaboration du plan de déploiement
 
 **Compétences démontrées**
 
-Architecture de système d'information · Institution publique · Intégration API · Gouvernance des données · Spécifications fonctionnelles et techniques · Coordination de projet
+Architecture de système d'information · Cahier des charges · Spécifications fonctionnelles et techniques · Modélisation de données · Gouvernance des données · Institution publique
 
 ### Architecture CMMS Nemidis
 
