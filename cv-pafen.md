@@ -80,28 +80,31 @@ Participation à la modernisation des processus fiscaux de l'Office Burundais de
 
 Institution publique · Système d'information national · API · Architecture · Gouvernance des données
 
-### Projet 2 – Doctolib Prescription
+### Projet Doctolib – Plateforme nationale d'ordonnances électroniques
 
 |             |                           |
 | ----------- | ------------------------- |
 | **Période** | Juin 2020 – Décembre 2022 |
 | **Rôle**    | Ingénieur Logiciel Senior |
 
-**Description**
+Participation à la conception, au développement et à la maintenance de l'application d'ordonnances électroniques utilisée par les professionnels de santé en France.
 
-Participation à la conception, au développement et à la maintenance de l'application de prescription utilisée par les professionnels de santé en France.
+**Principales réalisations**
 
-**Réalisations**
-
-- Développement de fonctionnalités critiques
-- Architecture applicative
-- Tests automatisés
-- Déploiements continus
-- Support de production
+- Développement du module de création et de gestion des ordonnances médicales utilisé quotidiennement par les médecins
+- Participation à l'intégration du système national d'e-Prescription permettant la sécurisation et la vérification des ordonnances via QR Code
+- Intégration avec les API et services numériques de l'État français dans le cadre de la dématérialisation des parcours de soins
+- Conception et développement de fonctionnalités critiques garantissant l'intégrité, la sécurité et la traçabilité des données médicales
+- Participation aux tests, aux déploiements continus et à la maintenance d'un système d'information national à forte volumétrie
 
 **Compétences démontrées**
 
-Système d'information national · Architecture logicielle · Qualité logicielle · Sécurité
+- Système d'information national
+- Interopérabilité entre plateformes
+- Intégration API
+- Sécurité des données
+- Architecture logicielle
+- Services publics numériques
 
 ### Projet 3 – Plateforme d'intégration financière Climb
 
