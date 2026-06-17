@@ -2,13 +2,13 @@
 
 **Expert en Développement de Solutions Logicielles, Architecture des Systèmes d'Information et Transformation Numérique**
 
-|                 |                            |
-| --------------- | -------------------------- |
-| **Téléphone**   | +33 …                      |
-| **Email**       | …                          |
-| **LinkedIn**    | …                          |
-| **Nationalité** | Burundaise & Française     |
-| **Langues**     | Français, Anglais, Kirundi |
+|                  |                              |
+| ---------------- | ---------------------------- |
+| **Email**        | lionel.kubwimana@gmail.com   |
+| **Téléphone**    | +33 6 15 44 29 22 (Whatsapp) |
+| **GitHub**       | https://github.com/lionel-k  |
+| **Nationalités** | Burundaise & Française       |
+| **Langues**      | Français, Anglais, Kirundi   |
 
 ---
 
@@ -43,7 +43,7 @@ Ruby on Rails · React · Next.js · Node.js · TypeScript · Docker · GitHub A
 
 ### Bases de données
 
-PostgreSQL · MySQL · MariaDB · SQLite · Redis
+PostgreSQL · MySQL · SQLite · Redis
 
 ### Intégration de systèmes
 
