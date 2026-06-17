@@ -135,8 +135,11 @@ Intégration de systèmes d'information · Architecture de données · API REST 
 
 ### Nemidis Technologies
 
-**Directeur Technique / Architecte Logiciel** · _Octobre 2024 – Présent_
+**Directeur Technique / Architecte Logiciel**
+
 _Bujumbura, Burundi – Télétravail / Missions terrain_
+
+_Octobre 2024 – Présent · 1 an 9 mois_
 
 Entreprise spécialisée dans les solutions de digitalisation et les systèmes d'information destinés aux institutions publiques et aux entreprises au Burundi.
 
@@ -150,14 +153,13 @@ Entreprise spécialisée dans les solutions de digitalisation et les systèmes d
 - Collaboration avec les institutions publiques et les parties prenantes dans le cadre des projets de transformation numérique
 - Participation à la planification, au suivi et à la mise en œuvre de projets numériques à l'échelle nationale
 
-**Technologies**
-
-Ruby on Rails · Flutter · PostgreSQL · React · REST · Docker · Cloud Run · GitHub Actions · Redis · Sidekiq
-
 ### Abbove (PaxFamilia)
 
-**Ingénieur Logiciel Senior** · _Juillet 2025 – Présent_
+**Ingénieur Logiciel Senior**
+
 _Bruxelles, Belgique – Télétravail_
+
+_Juillet 2025 – Présent · 1 an_
 
 Plateforme de gestion patrimoniale utilisée par des institutions financières européennes.
 
@@ -169,8 +171,11 @@ Plateforme de gestion patrimoniale utilisée par des institutions financières e
 
 ### Climb
 
-**Ingénieur Logiciel Senior** · _Janvier 2023 – Juin 2025_
+**Ingénieur Logiciel Senior**
+
 _Paris, France – Hybride_
+
+_Janvier 2023 – Juin 2025 · 2 ans 5 mois_
 
 Plateforme numérique de conseil patrimonial et fiscal.
 
@@ -182,8 +187,11 @@ Plateforme numérique de conseil patrimonial et fiscal.
 
 ### Doctolib
 
-**Ingénieur Logiciel Ruby on Rails et React** · _Juin 2020 – Décembre 2022_
+**Ingénieur Logiciel Ruby on Rails et React**
+
 _Paris, France – Hybride_
+
+_Juin 2020 – Décembre 2022 · 2 ans 6 mois_
 
 Plateforme nationale de santé numérique.
 
@@ -195,8 +203,11 @@ Plateforme nationale de santé numérique.
 
 ### Lingu.Africa
 
-**Fondateur / Architecte Applicatif** · _Mars 2021 – Présent_
+**Fondateur / Architecte Applicatif**
+
 _Télétravail_
+
+_Mars 2021 – Présent · 5 ans 4 mois_
 
 Plateforme numérique multilingue dédiée à l'apprentissage des langues africaines et à la diffusion de contenus éducatifs.
 
@@ -208,8 +219,11 @@ Plateforme numérique multilingue dédiée à l'apprentissage des langues africa
 
 ### Workelo
 
-**Ingénieur Logiciel Ruby on Rails** · _Juillet 2019 – Juin 2020_
+**Ingénieur Logiciel Ruby on Rails**
+
 _Paris, France – Sur site_
+
+_Juillet 2019 – Juin 2020 · 11 mois_
 
 Plateforme numérique d'onboarding et de gestion des parcours collaborateurs.
 
@@ -221,8 +235,11 @@ Plateforme numérique d'onboarding et de gestion des parcours collaborateurs.
 
 ### Le Wagon
 
-**Formateur Ruby on Rails** · _Janvier 2019 – Juin 2019_
+**Formateur Ruby on Rails**
+
 _Paris, France – Sur site_
+
+_Janvier 2019 – Juin 2019 · 5 mois_
 
 Programme international de formation au développement logiciel.
 
@@ -233,8 +250,11 @@ Programme international de formation au développement logiciel.
 
 ### Joinly
 
-**Ingénieur Logiciel Ruby on Rails** · _Janvier 2018 – Janvier 2019_
+**Ingénieur Logiciel Ruby on Rails**
+
 _Paris, France – Sur site_
+
+_Janvier 2018 – Janvier 2019 · 1 an_
 
 Plateforme de gestion administrative et financière pour les organisations sportives.
 
@@ -245,8 +265,11 @@ Plateforme de gestion administrative et financière pour les organisations sport
 
 ### Covage
 
-**Ingénieur Logiciel et Réseau** · _Février 2015 – Septembre 2017_
+**Ingénieur Logiciel et Réseau**
+
 _Paris, France – Sur site_
+
+_Février 2015 – Septembre 2017 · 2 ans 7 mois_
 
 Opérateur d'infrastructures télécoms et réseaux à fibre optique.
 
