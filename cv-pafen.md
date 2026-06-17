@@ -348,6 +348,7 @@ Architecture de système d'information · Cahier des charges · Modélisation de
 
 ## 8. Certifications et pièces justificatives
 
-- Diplôme d'ingénieur (Université de Technologie de Troyes)
-- Certificats de Scolarité (Université de Lille)
-- Certificat de Travail (Doctolib)
+- Diplôme d'ingénieur en Réseaux et Télécommunications – Université de Technologie de Troyes
+- Contrat avec Le Wagon – Développement Web Full Stack
+- Certificats de travail (Doctolib)
+- Références professionnelles disponibles sur demande
