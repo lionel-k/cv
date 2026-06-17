@@ -59,26 +59,30 @@ Plus de 10 ans d'expérience dans les systèmes d'information et plateformes dig
 
 ### Projet 1 – OBR / MFE / ASYCUDA / EBMS
 
-|             |                                                         |
-| ----------- | ------------------------------------------------------- |
-| **Période** | Novembre 2025 – Juin 2026                               |
-| **Rôle**    | Architecte logiciel / Expert en intégration de systèmes |
+|             |                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| **Période** | Novembre 2025 – Juin 2026                                                                  |
+| **Rôle**    | Architecte logiciel / Expert en intégration de systèmes                                    |
+| **Client**  | Office Burundais des Recettes (OBR) – Institution publique, système d'information national |
 
-**Description**
+Conception et coordination de l'intégration entre le système douanier ASYCUDA, la plateforme fiscale EBMS et l'application POS-OBR, afin d'assurer la traçabilité des marchandises importées depuis le dédouanement jusqu'à la facturation électronique.
 
-Participation à la modernisation des processus fiscaux de l'Office Burundais des Recettes (OBR).
+Contribution à la modernisation du système d'information de l'OBR et à la digitalisation des processus fiscaux.
 
 **Réalisations**
 
-- Développement d'un module d'intégration entre ASYCUDA/EBMS et POS-OBR
-- Synchronisation automatisée des marchandises importées
-- Conception d'API et services d'intégration
-- Architecture des flux de données
-- Supervision des développements
+- Conception d'une solution d'intégration entre plusieurs systèmes d'information de l'OBR
+- Conception du module de gestion des marchandises importées : récupération du stock déclaré en douane, validation par le contribuable et synchronisation avec le stock local du POS
+- Élaboration de l'architecture des flux de données entre ASYCUDA, EBMS et POS-OBR
+- Rédaction des spécifications fonctionnelles et techniques : analyse d'impact, modélisation des données, diagrammes de flux et plan d'implémentation
+- Conception des services d'intégration API REST avec le système d'information de l'OBR
+- Définition des règles de gouvernance des données, de contrôle qualité et de traçabilité des opérations
+- Mise en œuvre du mécanisme de traçabilité des marchandises importées basé sur les références douanières DMC
+- Participation à la planification du projet, à l'estimation des charges, à la préparation du déploiement et à la supervision des développements
 
 **Compétences démontrées**
 
-Institution publique · Système d'information national · API · Architecture · Gouvernance des données
+Institution publique · Système d'information national · Digitalisation des services publics · Architecture logicielle · Intégration de systèmes · API REST · Gouvernance des données · Spécifications fonctionnelles et techniques · Coordination de projet · Supervision des développements
 
 ### Projet Doctolib – Plateforme nationale d'ordonnances électroniques
 
