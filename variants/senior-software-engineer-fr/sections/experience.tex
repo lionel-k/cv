@@ -10,19 +10,19 @@
 
 %---------------------------------------------------------
 \cventry
-  {Ingénieur Ruby on Rails senior}
+  {Ingénieur logiciel senior (Ruby on Rails)}
   {Abbove (PaxFamilia) – WealthTech}
   {Bruxelles, Belgique – Télétravail}
-  {Juil. 2025 – Aujourd'hui (11 mois)}
+  {Juil. 2025 – Aujourd'hui (1 an 5 mois)}
   {
     \begin{cvitems}
-      \item {Conçu et livré un système d'allocation géographique complet pour les portefeuilles d'investissement — modèle de données, services serveur, interfaces de programmation, graphiques multi-secteurs et formulaires — déployé progressivement par drapeaux de fonctionnalité pour des clients institutionnels (BNP Paribas).}
-      \item {Construit un moteur de périodes de propriété temporelles pour les valorisations d'actifs, permettant le suivi de la propriété dans le temps avec des calculs de pourcentages adaptés au contexte sur une plateforme multi-locataire complexe de planification patrimoniale.}
-      \item {Développé des services d'analyse de marchés privés et le suivi des valeurs de passifs, avec interpolation de séries temporelles pour les visualisations historiques.}
-      \item {Maintenu et renforcé les intégrations bancaires tierces (Powens, Flanks) pour la synchronisation de portefeuilles, avec des suites de tests d'intégration complètes.}
-      \item {Refactorisé systématiquement du code ancien : extraction de modules partagés, objets de service depuis des contrôleurs surchargés, et simplification du moteur de calcul de valorisation — plus de 32 000 lignes supprimées.}
-      \item {Rédigé et exécuté des migrations de données multi-locataires avec des stratégies de déploiement par locataire, et corrigé des bugs critiques de valorisation (pourcentages de propriété, montants monétaires sur grands entiers).}
-      \item {Étendu le moteur de rapports avec de nouveaux types de tableaux, colonnes et composants pour les vues de portefeuilles d'investissement et d'assurance.}
+      \item {Proposé et mené la montée de version de Rails 7.2 à 8.1 d'une plateforme multi-locataire de planification patrimoniale avant la fin de son support de sécurité, en 50 petites PR déployées par étapes, sans interrompre le développement des fonctionnalités.}
+      \item {Fusionné plus de 460 PR et relu plus de 1 000 PR de collègues en 17 mois ; clôturé plus de 80 tickets de bugs, dont des correctifs prioritaires pour des clients bancaires (BNP Paribas Fortis, ING).}
+      \item {Construit le moteur d'historique de propriété qui retrace qui a possédé chaque actif dans le temps et alimente les valorisations, les graphiques et les rapports ; déployé sur tous les locataires par des migrations de données réversibles.}
+      \item {Livré des graphiques d'allocation géographique, par devise, par classe d'actifs et en marchés privés pour les portefeuilles d'investissement et d'assurance, activés progressivement par drapeaux de fonctionnalité.}
+      \item {Renforcé la sécurité : corrigé les failles de contrôle d'accès relevées par un test d'intrusion et une faille XSS stockée, bloqué les imports et les téléchargements par l'API tant que l'antivirus n'a pas validé le fichier, et rédigé la décision d'architecture pour chiffrer les documents clients avec AWS KMS.}
+      \item {Accéléré les parcours lents : supprimé des requêtes N+1 et ajouté des caches HTTP et Rails sur le tableau de bord refondu, empêché un point d'accès de graphique de saturer Redis (23 000 lectures, 184 s), et migré l'export PDF des rapports sur AWS Lambda vers Playwright.}
+      \item {Implémenté les règles belges de droits de succession (Bruxelles, Flandre, Wallonie) dans le simulateur successoral, et des points d'accès de l'API REST v2 pour les intégrations B2B.}
     \end{cvitems}
   }
 
