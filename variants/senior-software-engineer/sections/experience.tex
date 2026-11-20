@@ -10,19 +10,19 @@
 
 %---------------------------------------------------------
 \cventry
-  {Senior Ruby on Rails Engineer}
+  {Senior Software Engineer (Ruby on Rails)}
   {Abbove (PaxFamilia) – WealthTech}
   {Brussels, Belgium – Remote}
-  {Jul. 2025 – Present (9 mos)}
+  {Jul. 2025 – Present (1 yr 5 mos)}
   {
     \begin{cvitems}
-      \item {Designed and shipped a full-stack geographic allocation system for investment portfolios — data model, backend services, API, multi-pie chart visualizations, and forms — rolled out progressively via feature flags to institutional clients (BNP Paribas).}
-      \item {Built a temporal ownership period engine for asset valuations, enabling time-based ownership tracking with perspective-aware percentage computations across a complex multi-tenant estate planning platform.}
-      \item {Developed private markets analytics services and liability value tracking with time-series interpolation for historical chart visualizations.}
-      \item {Maintained and hardened third-party banking integrations (Powens, Flanks) for portfolio synchronization, with comprehensive integration test suites.}
-      \item {Systematically refactored legacy code: extracted shared concerns, service objects from fat controllers, and simplified the valuation calculation engine — 32k+ lines removed.}
-      \item {Authored and executed multi-tenant data migrations with tenant-specific rollout strategies, and fixed critical valuation bugs (ownership percentages, bigint monetary amounts).}
-      \item {Extended the reporting engine with new table types, columns, and widgets across investment and insurance portfolio views.}
+      \item {Proposed and led the Rails 7.2 to 8.1 upgrade of a multi-tenant wealth-planning platform before its security support ended, shipping it as 50 small, staged PRs without pausing feature work.}
+      \item {Merged 460+ PRs and reviewed 1,000+ PRs from teammates in 17 months; closed 80+ bug tickets, including priority fixes for bank clients (BNP Paribas Fortis, ING).}
+      \item {Built the ownership-history engine that tracks who owned each asset over time and feeds valuations, charts and reports; rolled it out to every tenant with reversible data migrations.}
+      \item {Shipped geographic, currency, asset-class and private-markets allocation charts for investment and insurance portfolios, released step by step behind feature flags.}
+      \item {Hardened security: fixed the access-control findings of a penetration test and a stored XSS, made uploads and API downloads wait for the antivirus, and wrote the architecture decision to encrypt client documents with AWS KMS.}
+      \item {Cut slow paths: removed N+1 queries and added HTTP and Rails caching on the redesigned dashboard, stopped a chart endpoint from saturating Redis (23k reads, 184 s), and moved PDF report export on AWS Lambda to Playwright.}
+      \item {Implemented Belgian inheritance-tax rules (Brussels, Flanders, Wallonia) in the succession simulator, and REST API v2 endpoints for B2B integrations.}
     \end{cvitems}
   }
 
