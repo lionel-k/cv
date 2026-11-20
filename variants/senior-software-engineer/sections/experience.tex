@@ -29,19 +29,16 @@
 %---------------------------------------------------------
 \cventry
   {Senior Ruby on Rails Engineer}
-  {Climb (ex Tacotax) – FinTech}
+  {Climb (formerly Tacotax) – Wealth advisory, FinTech}
   {Paris, France – Hybrid}
-  {Jan. 2023 – Present (2 yrs 3 mos)}
+  {Jan. 2023 – Present (3 yrs 10 mos)}
   {
     \begin{cvitems}
-      \item {Migrated the codebase from Rails 6 to Rails 7.2 and eliminated legacy components in line with a new business model.}
-      \item {Built CI/CD pipelines with custom deployment scripts to automate and streamline releases.}
-      \item {Implemented business-critical B2B API integrations and integrated Stripe for secure payment processing.}
-      \item {Connected external partner APIs with Salesforce to sync real-time client contract data.}
-      \item {Linked Salesforce data to the front-end for a seamless, data-rich user experience.}
-      \item {Reduced frontend and backend errors to zero in Rollbar through proactive debugging and monitoring.}
-      \item {Improved API response time and system performance through targeted code and query optimizations.}
-      \item {Contributed to ClimbGPT, an AI-powered assistant for tax and investment guidance using OpenAI's API.}
+      \item {Built the production pipeline that ingests life-insurance contracts from Vie Plus, Swiss Life, Generali, Apicil, and Lombard in Penelop (the French life-insurance exchange format), over crawlers, SFTP, and partner APIs, plus Equitim, and syncs contracts, scheduled payments, allocations, and valuations to PostgreSQL and Salesforce for advisors and the client area.}
+      \item {Upgraded the monolith from Ruby 3.0 and Rails 6.1 to Ruby 4.0 and Rails 8.1 (Sidekiq 7, Zeitwerk, Heroku-22) and removed the retired tax-filing stack (French form 2042, EDI submission, and PDF generation) after the product moved from tax returns to wealth advisory.}
+      \item {Shipped Salesforce-backed client flows: SRRI investor-profile scores on the client API, Girardin industrial subscriptions (French overseas tax-incentive investments), a referral program with advisor booking links, and OCR of national ID cards, bank details, and proof of address.}
+      \item {Connected Powens open-banking webhooks to investment follow-ups so balances and performance update from the bank link, and Stripe webhooks so paid amount and payment date are stored on the payment.}
+      \item {Stopped concurrent Salesforce opportunity sync from dropping updates or raising uniqueness errors, fixed insurer crawlers that piled up files or failed their daily fetch, and limited Rollbar to real provider outages.}
     \end{cvitems}
   }
 

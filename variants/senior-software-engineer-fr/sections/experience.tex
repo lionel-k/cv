@@ -29,19 +29,16 @@
 %---------------------------------------------------------
 \cventry
   {Ingénieur Ruby on Rails senior}
-  {Climb (ex Tacotax) – FinTech}
+  {Climb (anciennement Tacotax) – Conseil patrimonial, FinTech}
   {Paris, France – Hybride}
-  {Janv. 2023 – Aujourd'hui (2 ans 3 mois)}
+  {Janv. 2023 – Aujourd'hui (3 ans 10 mois)}
   {
     \begin{cvitems}
-      \item {Migré la base de code de Rails 6 vers Rails 7.2 et supprimé les composants obsolètes en lien avec un nouveau modèle économique.}
-      \item {Construit des pipelines d'intégration et de déploiement continus avec des scripts de déploiement sur mesure pour automatiser et fluidifier les mises en production.}
-      \item {Implémenté des intégrations d'interfaces de programmation entre entreprises critiques pour le métier et intégré Stripe pour le traitement sécurisé des paiements.}
-      \item {Connecté des interfaces de programmation partenaires externes à Salesforce pour synchroniser les données de contrats clients en temps réel.}
-      \item {Relié les données Salesforce à l'interface pour une expérience utilisateur fluide et riche en données.}
-      \item {Réduit les erreurs côté interface et côté serveur à zéro dans Rollbar grâce à un débogage et une surveillance proactifs.}
-      \item {Amélioré le temps de réponse des interfaces de programmation et les performances système via des optimisations ciblées de code et de requêtes.}
-      \item {Contribué à ClimbGPT, un assistant d'intelligence artificielle pour le conseil fiscal et patrimonial utilisant l'interface de programmation OpenAI.}
+      \item {Construit le pipeline de production qui récupère les contrats d'assurance-vie de Vie Plus, Swiss Life, Generali, Apicil et Lombard au format Penelop (format français d'échange des contrats d'assurance-vie), par collecteurs automatisés, SFTP et interfaces de programmation des partenaires, ainsi qu'Equitim, et synchronise les contrats, versements programmés, allocations et valorisations vers PostgreSQL et Salesforce pour les conseillers et l'espace client.}
+      \item {Migré le monolithe de Ruby 3.0 et Rails 6.1 vers Ruby 4.0 et Rails 8.1 (Sidekiq 7, Zeitwerk, Heroku-22) et retiré la brique de déclaration fiscale devenue obsolète (formulaire 2042, télétransmission EDI et génération de PDF) après le passage du produit de la déclaration d'impôts au conseil patrimonial.}
+      \item {Livré les parcours client adossés à Salesforce : scores de profil investisseur SRRI sur l'interface de programmation de l'espace client, souscriptions Girardin industriel (investissements de défiscalisation outre-mer), programme de parrainage avec liens de prise de rendez-vous des conseillers, et extraction OCR des cartes nationales d'identité, des RIB et des justificatifs de domicile.}
+      \item {Raccordé les webhooks d'open banking Powens aux suivis d'investissement, afin que les soldes et la performance se mettent à jour depuis la connexion bancaire, et les webhooks Stripe, afin que le montant payé et la date de paiement soient enregistrés sur le paiement.}
+      \item {Empêché la synchronisation concurrente des opportunités Salesforce de perdre des mises à jour ou de lever des erreurs d'unicité, corrigé les collecteurs des assureurs qui accumulaient des fichiers ou échouaient lors de la collecte quotidienne, et limité Rollbar aux vraies pannes des fournisseurs.}
     \end{cvitems}
   }
 
